@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="40.7620920" minlon="-73.9763030" maxlat="40.7649720" maxlon="-73.9723550"/>
+ <node id="42443614" lat="40.7602528" lon="-73.9696237" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:08Z"/>
+ <node id="42436511" lat="40.7648423" lon="-73.9704968" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:14Z"/>
+ <node id="42429876" lat="40.7427720" lon="-73.9865970" user="NE2" uid="207745" visible="true" version="4" changeset="3396277" timestamp="2009-12-17T21:11:25Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42423565" lat="40.7596490" lon="-73.9640050" user="NE2" uid="207745" visible="true" version="4" changeset="3385304" timestamp="2009-12-16T09:27:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1731961303" lat="40.8003814" lon="-73.9577187" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="1283225231" lat="40.7669209" lon="-73.9791827" user="dchiles" uid="153669" visible="true" version="1" changeset="8135142" timestamp="2011-05-13T20:23:23Z"/>
+ <node id="1719299394" lat="40.7621717" lon="-73.9740513" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1000793215" lat="40.7636220" lon="-73.9736617" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:18:43Z"/>
+ <node id="42445914" lat="40.7515213" lon="-73.9802215" user="NE2" uid="207745" visible="true" version="5" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42440567" lat="40.7566813" lon="-73.9611629" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:20:08Z"/>
+ <node id="42439392" lat="40.7782718" lon="-73.9607012" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:42Z"/>
+ <node id="1719398759" lat="40.7650734" lon="-73.9751056" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="42436477" lat="40.7717839" lon="-73.9654336" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:22Z"/>
+ <node id="42448203" lat="40.7795840" lon="-73.9618390" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="1593924227" lat="40.7634887" lon="-73.9725896" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:03Z"/>
+ <node id="42445037" lat="40.7679181" lon="-73.9857162" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12133742" timestamp="2012-07-06T19:17:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299434" lat="40.7623633" lon="-73.9740752" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42445039" lat="40.7685833" lon="-73.9852315" user="NJ Engineer" uid="703728" visible="true" version="7" changeset="12133742" timestamp="2012-07-06T19:17:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42447020" lat="40.7628510" lon="-73.9677270" user="woodpeck_fixbot" uid="147510" visible="true" version="3" changeset="2221591" timestamp="2009-08-21T11:00:18Z"/>
+ <node id="42446488" lat="40.7521970" lon="-73.9818220" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299432" lat="40.7623540" lon="-73.9737543" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1000793201" lat="40.7639766" lon="-73.9725572" user="robgeb" uid="336460" visible="true" version="3" changeset="10413443" timestamp="2012-01-16T23:07:06Z"/>
+ <node id="42453674" lat="40.7648980" lon="-73.9725530" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5162084" timestamp="2010-07-07T21:29:29Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299442" lat="40.7624157" lon="-73.9740917" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1659429016" lat="40.7680086" lon="-73.9808933" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:28Z"/>
+ <node id="42444043" lat="40.7547280" lon="-73.9778750" user="NE2" uid="207745" visible="true" version="5" changeset="3394023" timestamp="2009-12-17T14:38:59Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1000793210" lat="40.7631463" lon="-73.9740052" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:18:43Z"/>
+ <node id="1719299447" lat="40.7624507" lon="-73.9741754" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42430378" lat="40.7636462" lon="-73.9776851" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12104263" timestamp="2012-07-03T20:26:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432693" lat="40.7554050" lon="-73.9794830" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445879" lat="40.7421420" lon="-73.9870560" user="NE2" uid="207745" visible="true" version="6" changeset="3396277" timestamp="2009-12-17T21:11:25Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1000793189" lat="40.7638515" lon="-73.9743701" user="robgeb" uid="336460" visible="true" version="3" changeset="11637016" timestamp="2012-05-18T20:18:43Z"/>
+ <node id="42455662" lat="40.7680250" lon="-73.9702810" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1757610156" lat="40.7628375" lon="-73.9747550" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="42443556" lat="40.7547830" lon="-73.9799370" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42431671" lat="40.7699010" lon="-73.9689040" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1659429214" lat="40.7683631" lon="-73.9810569" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:25Z"/>
+ <node id="1719299437" lat="40.7623809" lon="-73.9741171" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1719398755" lat="40.7651753" lon="-73.9753468" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="42445950" lat="40.7635979" lon="-73.9714037" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42443950" lat="40.7503045" lon="-73.9832025" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="357642732" lat="40.7639359" lon="-73.9754995" user="iandees" uid="4732" visible="true" version="1" changeset="763672" timestamp="2009-03-09T00:35:57Z">
+  <tag k="amenity" v="hospital"/>
+  <tag k="ele" v="16"/>
+  <tag k="gnis:county_id" v="061"/>
+  <tag k="gnis:created" v="04/18/2008"/>
+  <tag k="gnis:feature_id" v="2420555"/>
+  <tag k="gnis:state_id" v="36"/>
+  <tag k="name" v="Cornerstone Medical Arts Hospital"/>
+ </node>
+ <node id="42428332" lat="40.7671189" lon="-73.9817098" user="NE2" uid="207745" visible="true" version="6" changeset="3396277" timestamp="2009-12-17T19:50:40Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299444" lat="40.7624324" lon="-73.9738062" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42433870" lat="40.7651225" lon="-73.9731442" user="dchiles" uid="153669" visible="true" version="5" changeset="8135142" timestamp="2011-05-13T20:23:34Z"/>
+ <node id="1719299414" lat="40.7622938" lon="-73.9741260" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="42423674" lat="40.7668760" lon="-73.9790760" user="NE2" uid="207745" visible="true" version="5" changeset="3401852" timestamp="2009-12-18T17:10:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445888" lat="40.7440080" lon="-73.9856960" user="NJ Engineer" uid="703728" visible="true" version="4" changeset="12113203" timestamp="2012-07-04T18:03:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757599649" lat="40.7638097" lon="-73.9742227" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z">
+  <tag k="amenity" v="cinema"/>
+  <tag k="name" v="Paris Theater"/>
+  <tag k="website" v="http://www.theparistheatre.com/"/>
+  <tag k="wikipedia" v="en:The Paris Theater (New York)"/>
+ </node>
+ <node id="1731961296" lat="40.8002631" lon="-73.9578827" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="42445947" lat="40.7629781" lon="-73.9718586" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42443680" lat="40.7471680" lon="-73.9854922" user="laxmi" uid="408776" visible="true" version="6" changeset="7301106" timestamp="2011-02-16T05:30:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432847" lat="40.7609292" lon="-73.9691318" user="NE2" uid="207745" visible="true" version="5" changeset="3410431" timestamp="2009-12-19T23:20:15Z"/>
+ <node id="42432438" lat="40.7521385" lon="-73.9797698" user="NE2" uid="207745" visible="true" version="6" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="591998556" lat="40.7664993" lon="-73.9793220" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:05Z"/>
+ <node id="591998473" lat="40.7665968" lon="-73.9775732" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1329122450" lat="40.7644833" lon="-73.9743390" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1329122458" lat="40.7645283" lon="-73.9743053" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1719299396" lat="40.7621892" lon="-73.9740931" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1595140672" lat="40.7618268" lon="-73.9750335" user="robgeb" uid="336460" visible="true" version="1" changeset="10420686" timestamp="2012-01-17T18:56:09Z"/>
+ <node id="1659429074" lat="40.7681073" lon="-73.9808880" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:28Z"/>
+ <node id="42440153" lat="40.7585380" lon="-73.9772010" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42440452" lat="40.7591650" lon="-73.9767440" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757599644" lat="40.7635395" lon="-73.9742377" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1691962438" lat="40.7638141" lon="-73.9730480" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:06:03Z"/>
+ <node id="1511944213" lat="40.7622929" lon="-73.9746897" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:03:23Z"/>
+ <node id="42452951" lat="40.7783130" lon="-73.9627680" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="591998694" lat="40.7649554" lon="-73.9744511" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="42436475" lat="40.7724610" lon="-73.9670390" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1251382508" lat="40.7645594" lon="-73.9728057" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1719299431" lat="40.7623464" lon="-73.9742515" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1487559377" lat="40.7625550" lon="-73.9740994" user="robgeb" uid="336460" visible="true" version="4" changeset="11322484" timestamp="2012-04-16T14:14:23Z"/>
+ <node id="357620536" lat="40.7640293" lon="-73.9736242" user="JessAk71" uid="381909" visible="true" version="2" changeset="7908417" timestamp="2011-04-19T17:06:24Z">
+  <tag k="amenity" v="fountain"/>
+  <tag k="ele" v="15"/>
+  <tag k="gnis:county_id" v="061"/>
+  <tag k="gnis:created" v="01/20/2006"/>
+  <tag k="gnis:feature_id" v="2083288"/>
+  <tag k="gnis:state_id" v="36"/>
+  <tag k="name" v="Pulitzer Fountain"/>
+ </node>
+ <node id="1695379684" lat="40.7966888" lon="-73.9496758" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:32Z"/>
+ <node id="1757599648" lat="40.7636811" lon="-73.9744954" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="591999102" lat="40.7535610" lon="-73.9464250" user="NE2" uid="207745" visible="true" version="1" changeset="3379121" timestamp="2009-12-15T13:16:00Z"/>
+ <node id="1691962436" lat="40.7637683" lon="-73.9729392" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:06:03Z"/>
+ <node id="1251382353" lat="40.7647912" lon="-73.9727820" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:21Z"/>
+ <node id="596775946" lat="40.7629524" lon="-73.9698766" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:23:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757610159" lat="40.7629783" lon="-73.9750972" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1615563215" lat="40.7623395" lon="-73.9732085" user="robgeb" uid="336460" visible="true" version="1" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="42431549" lat="40.7648393" lon="-73.9805314" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12093140" timestamp="2012-07-02T19:27:47Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757599646" lat="40.7634288" lon="-73.9746829" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1691962431" lat="40.7638491" lon="-73.9728798" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:06:03Z"/>
+ <node id="1695370994" lat="40.7668106" lon="-73.9783551" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:03Z"/>
+ <node id="42450341" lat="40.7697676" lon="-73.9880799" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12299188" timestamp="2012-07-18T21:28:35Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42436913" lat="40.7756284" lon="-73.9626301" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:47Z"/>
+ <node id="42434948" lat="40.7484320" lon="-73.9824730" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695371060" lat="40.7667908" lon="-73.9781955" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:06Z"/>
+ <node id="42437686" lat="40.7459210" lon="-73.9863930" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1329122452" lat="40.7640108" lon="-73.9741968" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:05Z"/>
+ <node id="42446031" lat="40.7789076" lon="-73.9602361" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:47Z"/>
+ <node id="1731961298" lat="40.8002149" lon="-73.9581210" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="1329122462" lat="40.7644545" lon="-73.9741339" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:05Z"/>
+ <node id="591998527" lat="40.7667674" lon="-73.9787105" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:05Z"/>
+ <node id="42449187" lat="40.7808760" lon="-73.9608933" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="1757610158" lat="40.7625875" lon="-73.9749363" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1329122433" lat="40.7646065" lon="-73.9748207" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:05Z"/>
+ <node id="805765092" lat="40.7581399" lon="-73.9774905" user="JessAk71" uid="381909" visible="true" version="3" changeset="8496186" timestamp="2011-06-20T16:51:01Z"/>
+ <node id="597882896" lat="40.7647766" lon="-73.9723590" user="NE2" uid="207745" visible="true" version="1" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1595140681" lat="40.7622841" lon="-73.9754597" user="robgeb" uid="336460" visible="true" version="1" changeset="10420686" timestamp="2012-01-17T18:56:09Z"/>
+ <node id="1757610152" lat="40.7624238" lon="-73.9745431" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="42431544" lat="40.7622930" lon="-73.9744570" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42423564" lat="40.7589776" lon="-73.9645003" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432580" lat="40.7579120" lon="-73.9776550" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719398756" lat="40.7650076" lon="-73.9754703" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="42440025" lat="40.7662134" lon="-73.9795321" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12093140" timestamp="2012-07-02T19:27:47Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299406" lat="40.7622590" lon="-73.9741514" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1719299441" lat="40.7624149" lon="-73.9737643" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1757610153" lat="40.7627958" lon="-73.9746563" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1719299389" lat="40.7621367" lon="-73.9739675" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1000793175" lat="40.7623860" lon="-73.9736759" user="robgeb" uid="336460" visible="true" version="4" changeset="10566998" timestamp="2012-02-02T12:29:56Z"/>
+ <node id="1251382368" lat="40.7647540" lon="-73.9731665" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:21Z"/>
+ <node id="1719299409" lat="40.7622763" lon="-73.9740842" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="42432861" lat="40.7593108" lon="-73.9652910" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42440313" lat="40.7642790" lon="-73.9730150" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:55Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445917" lat="40.7534810" lon="-73.9787830" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1251382547" lat="40.7639060" lon="-73.9735534" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1757610157" lat="40.7628284" lon="-73.9755111" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="42456598" lat="40.7622364" lon="-73.9701089" user="NE2" uid="207745" visible="true" version="9" changeset="3410431" timestamp="2009-12-19T23:23:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42431649" lat="40.7673940" lon="-73.9707280" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:54Z"/>
+ <node id="591998457" lat="40.7667024" lon="-73.9778307" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:05Z"/>
+ <node id="1691962434" lat="40.7638950" lon="-73.9729887" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:06:03Z"/>
+ <node id="1719299439" lat="40.7623974" lon="-73.9737227" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42424089" lat="40.7606074" lon="-73.9643288" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1251382517" lat="40.7640098" lon="-73.9737820" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1251382527" lat="40.7643172" lon="-73.9738207" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="42429682" lat="40.7704757" lon="-73.9663887" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:25Z"/>
+ <node id="42449971" lat="40.7609338" lon="-73.9670360" user="Eliyak" uid="439046" visible="true" version="5" changeset="11789310" timestamp="2012-06-03T17:56:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429055" lat="40.7680187" lon="-73.9809572" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:29Z"/>
+ <node id="1251382472" lat="40.7648355" lon="-73.9734658" user="dchiles" uid="153669" visible="true" version="2" changeset="8135142" timestamp="2011-05-13T20:23:34Z"/>
+ <node id="42451674" lat="40.7465360" lon="-73.9859490" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1792535230" lat="40.7654174" lon="-73.9819106" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11931882" timestamp="2012-06-17T23:48:02Z"/>
+ <node id="1251382462" lat="40.7650349" lon="-73.9729591" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1719299388" lat="40.7621363" lon="-73.9738585" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="42431556" lat="40.7660319" lon="-73.9833766" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12078877" timestamp="2012-07-01T17:25:33Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42446013" lat="40.7743723" lon="-73.9635486" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:35Z"/>
+ <node id="42434946" lat="40.7491020" lon="-73.9840760" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42435714" lat="40.7667150" lon="-73.9828770" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12078877" timestamp="2012-07-01T17:25:34Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445908" lat="40.7490500" lon="-73.9820240" user="NE2" uid="207745" visible="true" version="5" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="595269653" lat="40.7708112" lon="-73.9905898" user="NE2" uid="207745" visible="true" version="1" changeset="3394677" timestamp="2009-12-17T16:24:20Z"/>
+ <node id="1757610150" lat="40.7630112" lon="-73.9751754" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1757610151" lat="40.7632148" lon="-73.9749269" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1000793188" lat="40.7641980" lon="-73.9751866" user="robgeb" uid="336460" visible="true" version="2" changeset="9899632" timestamp="2011-11-21T17:56:29Z"/>
+ <node id="42446016" lat="40.7750035" lon="-73.9630866" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:40Z"/>
+ <node id="591998490" lat="40.7668081" lon="-73.9784315" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:05Z"/>
+ <node id="1283225217" lat="40.7651094" lon="-73.9732038" user="dchiles" uid="153669" visible="true" version="1" changeset="8135142" timestamp="2011-05-13T20:23:22Z"/>
+ <node id="1719299408" lat="40.7622755" lon="-73.9737028" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="42439556" lat="40.7730963" lon="-73.9644760" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:03Z"/>
+ <node id="42442960" lat="40.7586317" lon="-73.9657832" user="Eliyak" uid="439046" visible="true" version="6" changeset="11789310" timestamp="2012-06-03T17:52:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42443613" lat="40.7608764" lon="-73.9711009" user="NE2" uid="207745" visible="true" version="9" changeset="3410431" timestamp="2009-12-19T23:23:01Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="596775941" lat="40.7623299" lon="-73.9703295" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:23:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757610155" lat="40.7627630" lon="-73.9753553" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1757599641" lat="40.7626718" lon="-73.9743610" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:27:26Z"/>
+ <node id="42440296" lat="40.7650297" lon="-73.9733408" user="dchiles" uid="153669" visible="true" version="7" changeset="8135142" timestamp="2011-05-13T20:23:34Z"/>
+ <node id="1740700804" lat="40.7668373" lon="-73.9789845" user="ger4rd" uid="90488" visible="true" version="1" changeset="11501901" timestamp="2012-05-04T20:22:45Z"/>
+ <node id="1792535217" lat="40.7662588" lon="-73.9817812" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11931882" timestamp="2012-06-17T23:48:01Z"/>
+ <node id="1740694093" lat="40.7768814" lon="-73.9638349" user="ger4rd" uid="90488" visible="true" version="1" changeset="11501818" timestamp="2012-05-04T20:16:40Z"/>
+ <node id="42445916" lat="40.7528022" lon="-73.9792861" user="NE2" uid="207745" visible="true" version="6" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="597882888" lat="40.7649035" lon="-73.9741088" user="NE2" uid="207745" visible="true" version="1" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="42445225" lat="40.7717760" lon="-73.9675340" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1659429260" lat="40.7686381" lon="-73.9812422" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:26Z"/>
+ <node id="42453676" lat="40.7649770" lon="-73.9726720" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5162084" timestamp="2010-07-07T21:29:29Z"/>
+ <node id="1251382430" lat="40.7649252" lon="-73.9727767" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="42447007" lat="40.7616111" lon="-73.9686338" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:15Z"/>
+ <node id="1659429184" lat="40.7682936" lon="-73.9809213" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:28Z"/>
+ <node id="42445885" lat="40.7433890" lon="-73.9861470" user="NJ Engineer" uid="703728" visible="true" version="4" changeset="12113203" timestamp="2012-07-04T18:03:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42437423" lat="40.7692710" lon="-73.9693650" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1695379676" lat="40.7966412" lon="-73.9496293" user="General Dreedle" uid="174796" visible="true" version="4" changeset="12777863" timestamp="2012-08-18T22:03:32Z"/>
+ <node id="42455113" lat="40.7634774" lon="-73.9692037" user="NE2" uid="207745" visible="true" version="9" changeset="3410431" timestamp="2009-12-19T23:23:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1209761660" lat="40.7751846" lon="-73.9650398" user="domob" uid="521541" visible="true" version="2" changeset="13000570" timestamp="2012-09-05T19:20:17Z"/>
+ <node id="42447009" lat="40.7622356" lon="-73.9681807" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:07Z"/>
+ <node id="1593924226" lat="40.7634798" lon="-73.9717604" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:03Z"/>
+ <node id="42440951" lat="40.7616670" lon="-73.9749150" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42436510" lat="40.7655180" lon="-73.9720990" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:54Z"/>
+ <node id="1329122340" lat="40.7619672" lon="-73.9734768" user="robgeb" uid="336460" visible="true" version="3" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="1719299395" lat="40.7621885" lon="-73.9737663" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="42445867" lat="40.7408836" lon="-73.9879839" user="sdelmont" uid="563596" visible="true" version="8" changeset="10302475" timestamp="2012-01-05T16:48:19Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757599638" lat="40.7629074" lon="-73.9741886" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:27:26Z"/>
+ <node id="42437425" lat="40.7685940" lon="-73.9677605" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:20Z"/>
+ <node id="1719299401" lat="40.7622242" lon="-73.9741768" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1593924232" lat="40.7636172" lon="-73.9728229" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="1719299399" lat="40.7622233" lon="-73.9737409" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="322545459" lat="40.7671630" lon="-73.9793669" user="General Dreedle" uid="174796" visible="true" version="9" changeset="12777863" timestamp="2012-08-18T22:03:35Z"/>
+ <node id="1251382377" lat="40.7646969" lon="-73.9731325" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:21Z"/>
+ <node id="1659429187" lat="40.7682967" lon="-73.9809080" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:29Z"/>
+ <node id="1593924231" lat="40.7636019" lon="-73.9719762" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="42445910" lat="40.7502820" lon="-73.9811230" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445936" lat="40.7603636" lon="-73.9737663" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1593924235" lat="40.7637480" lon="-73.9723976" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="42427762" lat="40.7636590" lon="-73.9734650" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:55Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42429874" lat="40.7434510" lon="-73.9881940" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42435497" lat="40.7802227" lon="-73.9613747" user="dchiles" uid="153669" visible="true" version="6" changeset="8896512" timestamp="2011-08-01T23:31:36Z"/>
+ <node id="42445953" lat="40.7642198" lon="-73.9709542" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:09Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445651" lat="40.7509034" lon="-73.9806752" user="NE2" uid="207745" visible="true" version="5" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="597928325" lat="40.7648348" lon="-73.9725847" user="NE2" uid="207745" visible="true" version="1" changeset="3424090" timestamp="2009-12-21T23:52:54Z">
+  <tag k="name" v="5th Avenue"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="1719299411" lat="40.7622928" lon="-73.9737442" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1719299422" lat="40.7623116" lon="-73.9742768" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1593924238" lat="40.7638536" lon="-73.9726481" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="368055504" lat="40.7633333" lon="-73.9750000" user="amillar" uid="28145" visible="true" version="1" changeset="3235" timestamp="2009-04-01T00:44:07Z">
+  <tag k="addr:state" v="NY"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="16"/>
+  <tag k="gnis:county_name" v="New York"/>
+  <tag k="gnis:feature_id" v="2083285"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="name" v="Curtiss-Wright Building"/>
+  <tag k="source" v="USGS Geonames"/>
+ </node>
+ <node id="42445994" lat="40.7698455" lon="-73.9668481" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:17Z"/>
+ <node id="1695371046" lat="40.7667632" lon="-73.9780402" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:06Z"/>
+ <node id="42436701" lat="40.7597393" lon="-73.9742235" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429128" lat="40.7682121" lon="-73.9809093" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:36Z"/>
+ <node id="1719299407" lat="40.7622592" lon="-73.9742606" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="42445227" lat="40.7711000" lon="-73.9659332" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:29Z"/>
+ <node id="42445961" lat="40.7654664" lon="-73.9700424" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:12Z"/>
+ <node id="1251382485" lat="40.7648706" lon="-73.9729233" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1593924234" lat="40.7636458" lon="-73.9728906" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="42445909" lat="40.7496412" lon="-73.9815997" user="NE2" uid="207745" visible="true" version="5" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757599637" lat="40.7636084" lon="-73.9743992" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1719299448" lat="40.7624674" lon="-73.9738899" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="596775935" lat="40.7616441" lon="-73.9708284" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:23:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452973" lat="40.7497240" lon="-73.9836210" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1593924221" lat="40.7632431" lon="-73.9719344" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:03Z"/>
+ <node id="1329122321" lat="40.7622341" lon="-73.9725885" user="robgeb" uid="336460" visible="true" version="3" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="591998513" lat="40.7667794" lon="-73.9781157" user="LucasLarson" uid="38533" visible="true" version="3" changeset="11132167" timestamp="2012-03-28T23:36:14Z"/>
+ <node id="1731935943" lat="40.7653987" lon="-73.9732368" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:39Z"/>
+ <node id="1251382425" lat="40.7648887" lon="-73.9727633" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1719299400" lat="40.7622240" lon="-73.9740677" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1719299454" lat="40.7625203" lon="-73.9741247" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="42446026" lat="40.7776355" lon="-73.9611664" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:34Z"/>
+ <node id="1487559379" lat="40.7622767" lon="-73.9743023" user="robgeb" uid="336460" visible="true" version="4" changeset="11322484" timestamp="2012-04-16T14:14:23Z"/>
+ <node id="42445899" lat="40.7464940" lon="-73.9838932" user="laxmi" uid="408776" visible="true" version="5" changeset="7301106" timestamp="2011-02-16T05:30:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429222" lat="40.7684004" lon="-73.9809652" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:25Z"/>
+ <node id="42450426" lat="40.7610400" lon="-73.9753730" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1593924237" lat="40.7637721" lon="-73.9723798" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="805765088" lat="40.7583121" lon="-73.9773667" user="robgeb" uid="336460" visible="true" version="5" changeset="11263715" timestamp="2012-04-11T11:48:12Z"/>
+ <node id="42455643" lat="40.7691032" lon="-73.9885656" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12299188" timestamp="2012-07-18T21:28:33Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1251382514" lat="40.7641249" lon="-73.9733945" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="42445972" lat="40.7673451" lon="-73.9686697" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:17Z"/>
+ <node id="42448317" lat="40.7628587" lon="-73.9696549" user="NE2" uid="207745" visible="true" version="9" changeset="3410431" timestamp="2009-12-19T23:23:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1000793173" lat="40.7627788" lon="-73.9739063" user="robgeb" uid="336460" visible="true" version="4" changeset="10566998" timestamp="2012-02-02T12:29:56Z"/>
+ <node id="1773606888" lat="40.7791351" lon="-73.9621660" user="lucas38490" uid="694417" visible="true" version="1" changeset="11777409" timestamp="2012-06-02T14:14:37Z"/>
+ <node id="1695371040" lat="40.7667473" lon="-73.9787960" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:06Z"/>
+ <node id="1329122416" lat="40.7643428" lon="-73.9744463" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:05Z"/>
+ <node id="1251382427" lat="40.7641785" lon="-73.9735134" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="42434074" lat="40.7553543" lon="-73.9774168" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T22:58:24Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1757610160" lat="40.7627302" lon="-73.9752765" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1719299403" lat="40.7622417" lon="-73.9742187" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1757599647" lat="40.7639004" lon="-73.9743343" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1329122453" lat="40.7646138" lon="-73.9746424" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="42438485" lat="40.7776770" lon="-73.9632300" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="1731961289" lat="40.8002271" lon="-73.9580084" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="1593924223" lat="40.7633183" lon="-73.9721858" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:03Z"/>
+ <node id="1251382533" lat="40.7640339" lon="-73.9731929" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1719299428" lat="40.7623289" lon="-73.9742097" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42454428" lat="40.7541550" lon="-73.9803950" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12110019" timestamp="2012-07-04T12:26:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1329122317" lat="40.7624558" lon="-73.9731246" user="robgeb" uid="336460" visible="true" version="3" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="1695371076" lat="40.7666979" lon="-73.9789689" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:07Z"/>
+ <node id="1251382511" lat="40.7650471" lon="-73.9730905" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="42443612" lat="40.7616152" lon="-73.9728511" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429220" lat="40.7683834" lon="-73.9810729" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:25Z"/>
+ <node id="1659429015" lat="40.7679534" lon="-73.9809709" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:28Z"/>
+ <node id="1659429258" lat="40.7685782" lon="-73.9812971" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:25Z"/>
+ <node id="42446353" lat="40.7597870" lon="-73.9762890" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695371012" lat="40.7666357" lon="-73.9791140" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:04Z"/>
+ <node id="42446701" lat="40.7477730" lon="-73.9850460" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1655435369" lat="40.7628165" lon="-73.9734040" user="yocobo" uid="614761" visible="true" version="1" changeset="10844005" timestamp="2012-03-02T01:52:32Z">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="10022"/>
+  <tag k="addr:street" v="E. 57th Street"/>
+  <tag k="name" v="CHANEL Boutique"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="website" v="www.chanel.com"/>
+ </node>
+ <node id="591998441" lat="40.7647035" lon="-73.9720908" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="591998737" lat="40.7616643" lon="-73.9649024" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1283225262" lat="40.7650709" lon="-73.9732832" user="dchiles" uid="153669" visible="true" version="1" changeset="8135142" timestamp="2011-05-13T20:23:24Z"/>
+ <node id="1719299436" lat="40.7623636" lon="-73.9741843" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42438487" lat="40.7770011" lon="-73.9616294" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:49Z"/>
+ <node id="42431674" lat="40.7692257" lon="-73.9673032" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:26Z"/>
+ <node id="1719299452" lat="40.7625024" lon="-73.9739736" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="419365847" lat="40.7649367" lon="-73.9724632" user="cityracks" uid="134892" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:57:49Z">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="1"/>
+  <tag k="cityracks.installed" v="5/1/2000"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2636"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="E 60th St"/>
+ </node>
+ <node id="1659429225" lat="40.7684477" lon="-73.9811234" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:25Z"/>
+ <node id="42430384" lat="40.7643240" lon="-73.9771960" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12104263" timestamp="2012-07-03T20:26:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42438881" lat="40.7572320" lon="-73.9760450" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:59Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42453682" lat="40.7650940" lon="-73.9729530" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5162084" timestamp="2010-07-07T21:29:29Z"/>
+ <node id="591998708" lat="40.7651991" lon="-73.9749446" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1731961306" lat="40.7965900" lon="-73.9495571" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="1000793170" lat="40.7625516" lon="-73.9740718" user="robgeb" uid="336460" visible="true" version="4" changeset="10566998" timestamp="2012-02-02T12:29:56Z"/>
+ <node id="1719299420" lat="40.7623113" lon="-73.9741678" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1329122395" lat="40.7645499" lon="-73.9737927" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="42432834" lat="40.7615514" lon="-73.9706085" user="NE2" uid="207745" visible="true" version="9" changeset="3410431" timestamp="2009-12-19T23:23:01Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42439389" lat="40.7789470" lon="-73.9623030" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="1251382409" lat="40.7649638" lon="-73.9728062" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="42438544" lat="40.7446820" lon="-73.9872980" user="Dylan Semler" uid="31855" visible="true" version="7" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42440453" lat="40.7584861" lon="-73.9751347" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="591998543" lat="40.7666618" lon="-73.9790538" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:05Z"/>
+ <node id="42440397" lat="40.7770004" lon="-73.9637494" user="MrTaco" uid="602351" visible="true" version="6" changeset="12442682" timestamp="2012-07-23T00:46:22Z"/>
+ <node id="42438788" lat="40.7731400" lon="-73.9665370" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1251382431" lat="40.7650065" lon="-73.9732112" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="419362270" lat="40.7621516" lon="-73.9762546" user="cityracks" uid="134892" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:53:54Z">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="40"/>
+  <tag k="cityracks.installed" v="4/5/2000"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="2569"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="W 55th St"/>
+ </node>
+ <node id="42445930" lat="40.7591101" lon="-73.9746829" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1000793187" lat="40.7637950" lon="-73.9754847" user="robgeb" uid="336460" visible="true" version="2" changeset="9899632" timestamp="2011-11-21T17:56:29Z"/>
+ <node id="1251382467" lat="40.7650288" lon="-73.9731629" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="42440022" lat="40.7655210" lon="-73.9800360" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12093140" timestamp="2012-07-02T19:27:47Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1593924230" lat="40.7635782" lon="-73.9719936" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="42436911" lat="40.7763100" lon="-73.9642280" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:52Z"/>
+ <node id="1595140676" lat="40.7620395" lon="-73.9748777" user="robgeb" uid="336460" visible="true" version="1" changeset="10420686" timestamp="2012-01-17T18:56:09Z"/>
+ <node id="42445365" lat="40.7477650" lon="-73.9829570" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1511944211" lat="40.7623066" lon="-73.9754858" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:03:22Z"/>
+ <node id="1719299392" lat="40.7621542" lon="-73.9740094" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1719299404" lat="40.7622580" lon="-73.9737155" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1740694094" lat="40.7772129" lon="-73.9635883" user="ger4rd" uid="90488" visible="true" version="1" changeset="11501818" timestamp="2012-05-04T20:16:40Z"/>
+ <node id="1000793174" lat="40.7626132" lon="-73.9735103" user="robgeb" uid="336460" visible="true" version="4" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="1695371061" lat="40.7668028" lon="-73.9782784" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:06Z"/>
+ <node id="1615563207" lat="40.7618269" lon="-73.9728820" user="robgeb" uid="336460" visible="true" version="1" changeset="10566998" timestamp="2012-02-02T12:29:54Z"/>
+ <node id="42453679" lat="40.7650470" lon="-73.9728160" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5162084" timestamp="2010-07-07T21:29:29Z"/>
+ <node id="42428328" lat="40.7654522" lon="-73.9819937" user="NE2" uid="207745" visible="true" version="6" changeset="3396277" timestamp="2009-12-17T20:14:09Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42430052" lat="40.7737351" lon="-73.9640105" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:38Z"/>
+ <node id="42435499" lat="40.7795420" lon="-73.9597740" user="woodpeck_fixbot" uid="147510" visible="true" version="3" changeset="2221591" timestamp="2009-08-21T10:58:27Z"/>
+ <node id="1792535231" lat="40.7676993" lon="-73.9810182" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11931882" timestamp="2012-06-17T23:48:02Z"/>
+ <node id="1719398757" lat="40.7647292" lon="-73.9755289" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="1329122415" lat="40.7645618" lon="-73.9749556" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="42445976" lat="40.7679674" lon="-73.9682154" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:21Z"/>
+ <node id="42445924" lat="40.7559713" lon="-73.9769665" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:03Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42452353" lat="40.7566550" lon="-73.9785650" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:05Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="419361939" lat="40.7643666" lon="-73.9753663" user="cityracks" uid="134892" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:53:39Z">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="50"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="158"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="W 58th St"/>
+ </node>
+ <node id="42431563" lat="40.7684306" lon="-73.9890597" user="NJ Engineer" uid="703728" visible="true" version="7" changeset="12299188" timestamp="2012-07-18T21:28:34Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429007" lat="40.7678988" lon="-73.9809825" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:43Z"/>
+ <node id="42429680" lat="40.7711470" lon="-73.9679940" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1659429068" lat="40.7680668" lon="-73.9808902" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:29Z"/>
+ <node id="1719299455" lat="40.7625374" lon="-73.9740574" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="1757599640" lat="40.7636325" lon="-73.9743802" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1719299427" lat="40.7623286" lon="-73.9741006" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1329122455" lat="40.7642351" lon="-73.9742984" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:05Z"/>
+ <node id="595269561" lat="40.7691760" lon="-73.9908776" user="NE2" uid="207745" visible="true" version="1" changeset="3394677" timestamp="2009-12-17T16:24:14Z"/>
+ <node id="42427764" lat="40.7639334" lon="-73.9741110" user="robgeb" uid="336460" visible="true" version="4" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1719398760" lat="40.7646745" lon="-73.9753994" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="1719299390" lat="40.7621537" lon="-73.9737916" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1719299450" lat="40.7624849" lon="-73.9739318" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="1695371015" lat="40.7666017" lon="-73.9791774" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:04Z"/>
+ <node id="42447228" lat="40.7686460" lon="-73.9698250" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="42430394" lat="40.7656750" lon="-73.9762340" user="NE2" uid="207745" visible="true" version="5" changeset="3401852" timestamp="2009-12-18T17:10:12Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42456683" lat="40.7661430" lon="-73.9716480" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:54Z"/>
+ <node id="1511944215" lat="40.7625518" lon="-73.9753062" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:03:23Z"/>
+ <node id="419363936" lat="40.7626789" lon="-73.9751920" user="cityracks" uid="134892" visible="true" version="1" changeset="1500261" timestamp="2009-06-12T21:55:42Z">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="capacity" v="2"/>
+  <tag k="cityracks.housenum" v="23"/>
+  <tag k="cityracks.large" v="0"/>
+  <tag k="cityracks.rackid" v="82"/>
+  <tag k="cityracks.small" v="1"/>
+  <tag k="cityracks.street" v="West 56th St"/>
+ </node>
+ <node id="1695371064" lat="40.7665706" lon="-73.9792285" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:07Z"/>
+ <node id="1000793202" lat="40.7634974" lon="-73.9729115" user="robgeb" uid="336460" visible="true" version="3" changeset="10413443" timestamp="2012-01-16T23:07:06Z"/>
+ <node id="1719299398" lat="40.7622067" lon="-73.9741350" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1329122406" lat="40.7643918" lon="-73.9750830" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1420634266" lat="40.7685112" lon="-73.9811992" user="General Dreedle" uid="174796" visible="true" version="4" changeset="12777863" timestamp="2012-08-18T22:03:42Z"/>
+ <node id="42446021" lat="40.7763171" lon="-73.9621555" user="NE2" uid="207745" visible="true" version="5" changeset="3410431" timestamp="2009-12-19T23:20:30Z"/>
+ <node id="1719299443" lat="40.7624159" lon="-73.9742007" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1593924229" lat="40.7635117" lon="-73.9725727" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="1719299418" lat="40.7623110" lon="-73.9740588" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1251382434" lat="40.7649212" lon="-73.9730390" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1695371033" lat="40.7667458" lon="-73.9779660" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:05Z"/>
+ <node id="42434800" lat="40.7440660" lon="-73.9877460" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42434346" lat="40.7645700" lon="-73.9736360" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5162084" timestamp="2010-07-07T21:29:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1593924239" lat="40.7638826" lon="-73.9727164" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:04Z"/>
+ <node id="42445903" lat="40.7470980" lon="-73.9834430" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="371037281" lat="40.7599876" lon="-73.9628591" user="Roadrunner21" uid="330773" visible="true" version="4" changeset="11178793" timestamp="2012-04-04T17:11:58Z"/>
+ <node id="1695379696" lat="40.7967616" lon="-73.9497076" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:33Z"/>
+ <node id="1757599626" lat="40.7633110" lon="-73.9744028" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="42430390" lat="40.7650275" lon="-73.9766802" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12104263" timestamp="2012-07-03T20:26:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1731961301" lat="40.8003367" lon="-73.9577670" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="42446455" lat="40.7756770" lon="-73.9646870" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1251382457" lat="40.7637663" lon="-73.9735234" user="dchiles" uid="153669" visible="true" version="2" changeset="8135142" timestamp="2011-05-13T20:23:35Z"/>
+ <node id="42434072" lat="40.7560320" lon="-73.9790240" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299446" lat="40.7624499" lon="-73.9738481" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="596775892" lat="40.7635717" lon="-73.9694261" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:23:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42430050" lat="40.7744070" lon="-73.9656100" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="1757610154" lat="40.7625501" lon="-73.9744498" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="42438791" lat="40.7724629" lon="-73.9649361" user="NE2" uid="207745" visible="true" version="5" changeset="3410431" timestamp="2009-12-19T23:20:24Z"/>
+ <node id="42445941" lat="40.7609894" lon="-73.9733087" user="NJ Engineer" uid="703728" visible="true" version="5" changeset="12113203" timestamp="2012-07-04T18:03:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1615563216" lat="40.7618074" lon="-73.9730903" user="robgeb" uid="336460" visible="true" version="1" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="1251382523" lat="40.7647288" lon="-73.9731091" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1000793186" lat="40.7634485" lon="-73.9746680" user="robgeb" uid="336460" visible="true" version="3" changeset="11637016" timestamp="2012-05-18T20:18:43Z"/>
+ <node id="42454679" lat="40.7750450" lon="-73.9651480" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="42440304" lat="40.7646759" lon="-73.9735664" user="Vlad" uid="24247" visible="true" version="5" changeset="6805270" timestamp="2010-12-30T01:19:12Z"/>
+ <node id="1731935940" lat="40.7650918" lon="-73.9724949" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:39Z"/>
+ <node id="1251382475" lat="40.7648006" lon="-73.9730507" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z">
+  <tag k="historic" v="monument"/>
+  <tag k="name" v="William Tecumseh Sherman"/>
+ </node>
+ <node id="42442961" lat="40.7599854" lon="-73.9647985" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:16Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1221726034" lat="40.7624758" lon="-73.9745181" user="Julian Burgess" uid="35721" visible="true" version="2" changeset="8526488" timestamp="2011-06-23T20:18:09Z">
+  <tag k="name" v="Abercrombie &amp; Fitch"/>
+  <tag k="shop" v="department_store"/>
+ </node>
+ <node id="1757599652" lat="40.7635650" lon="-73.9742193" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="42439553" lat="40.7737730" lon="-73.9660740" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="42455693" lat="40.7705170" lon="-73.9684410" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:53Z"/>
+ <node id="42445926" lat="40.7566060" lon="-73.9765040" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:59Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695371067" lat="40.7667938" lon="-73.9785726" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:07Z"/>
+ <node id="1719299440" lat="40.7623984" lon="-73.9741589" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1251382374" lat="40.7648602" lon="-73.9727633" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:21Z"/>
+ <node id="1719299451" lat="40.7624855" lon="-73.9741500" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="591999065" lat="40.7589663" lon="-73.9585188" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1251382433" lat="40.7639583" lon="-73.9739789" user="dchiles" uid="153669" visible="true" version="2" changeset="8135142" timestamp="2011-05-13T20:23:34Z"/>
+ <node id="42443618" lat="40.7576322" lon="-73.9634155" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:08Z"/>
+ <node id="1251382417" lat="40.7650045" lon="-73.9728840" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1329122461" lat="40.7643094" lon="-73.9744713" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1329122449" lat="40.7648980" lon="-73.9746023" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1251382540" lat="40.7650492" lon="-73.9730073" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z"/>
+ <node id="1000793200" lat="40.7635766" lon="-73.9716142" user="robgeb" uid="336460" visible="true" version="3" changeset="10413443" timestamp="2012-01-16T23:07:06Z"/>
+ <node id="42448321" lat="40.7615583" lon="-73.9665784" user="Eliyak" uid="439046" visible="true" version="5" changeset="11789310" timestamp="2012-06-03T17:56:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429263" lat="40.7692536" lon="-73.9808211" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:26Z"/>
+ <node id="1695379678" lat="40.7968380" lon="-73.9497187" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:32Z"/>
+ <node id="1719299429" lat="40.7623364" lon="-73.9737124" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1000793198" lat="40.7630974" lon="-73.9719686" user="robgeb" uid="336460" visible="true" version="3" changeset="10413443" timestamp="2012-01-16T23:07:06Z"/>
+ <node id="1757599642" lat="40.7631275" lon="-73.9747157" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:27:26Z"/>
+ <node id="42445649" lat="40.7515770" lon="-73.9822750" user="NJ Engineer" uid="703728" visible="true" version="4" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695379677" lat="40.7969917" lon="-73.9497096" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:32Z"/>
+ <node id="1659428993" lat="40.7678443" lon="-73.9810178" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:41Z"/>
+ <node id="42445920" lat="40.7541000" lon="-73.9783320" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="443415299" lat="40.7635285" lon="-73.9728007" user="bkappfactory" uid="577829" visible="true" version="3" changeset="10319035" timestamp="2012-01-07T08:47:13Z">
+  <tag k="name" v="F.A.O. Schwarz"/>
+  <tag k="shop" v="toys"/>
+  <tag k="tourism" v="yes"/>
+ </node>
+ <node id="42429970" lat="40.7667670" lon="-73.9711890" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5161739" timestamp="2010-07-07T20:48:54Z"/>
+ <node id="1757610161" lat="40.7626753" lon="-73.9747452" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="42428329" lat="40.7662870" lon="-73.9818480" user="NE2" uid="207745" visible="true" version="5" changeset="3396277" timestamp="2009-12-17T20:14:09Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299405" lat="40.7622587" lon="-73.9740423" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="42453685" lat="40.7651270" lon="-73.9730950" user="Dylan Semler" uid="31855" visible="true" version="4" changeset="5162084" timestamp="2010-07-07T21:29:29Z"/>
+ <node id="42443615" lat="40.7595777" lon="-73.9680243" user="Eliyak" uid="439046" visible="true" version="5" changeset="11789310" timestamp="2012-06-03T17:56:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1511944214" lat="40.7620476" lon="-73.9748693" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:03:23Z"/>
+ <node id="1695379687" lat="40.7968837" lon="-73.9497167" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:32Z"/>
+ <node id="42436700" lat="40.7604180" lon="-73.9758310" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:05Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445404" lat="40.7452440" lon="-73.9847940" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299397" lat="40.7622064" lon="-73.9740259" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="42432818" lat="40.7629670" lon="-73.9739680" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695371032" lat="40.7666565" lon="-73.9777034" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:05Z"/>
+ <node id="42429971" lat="40.7660912" lon="-73.9695848" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:13Z"/>
+ <node id="1719299449" lat="40.7624680" lon="-73.9741081" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="42436746" lat="40.7446270" lon="-73.9852430" user="NJ Engineer" uid="703728" visible="true" version="4" changeset="12113203" timestamp="2012-07-04T18:03:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695379702" lat="40.7969425" lon="-73.9497163" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:33Z"/>
+ <node id="42432856" lat="40.7602554" lon="-73.9675327" user="Eliyak" uid="439046" visible="true" version="6" changeset="11789310" timestamp="2012-06-03T17:56:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1695370999" lat="40.7667271" lon="-73.9788801" user="LucasLarson" uid="38533" visible="true" version="1" changeset="11132167" timestamp="2012-03-28T23:36:04Z"/>
+ <node id="596775951" lat="40.7609688" lon="-73.9713198" user="NE2" uid="207745" visible="true" version="3" changeset="3410431" timestamp="2009-12-19T23:23:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42435716" lat="40.7673981" lon="-73.9823814" user="NE2" uid="207745" visible="true" version="6" changeset="3396277" timestamp="2009-12-17T19:50:40Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42436575" lat="40.7415280" lon="-73.9875290" user="NE2" uid="207745" visible="true" version="4" changeset="3396277" timestamp="2009-12-17T21:11:25Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="591998713" lat="40.7650447" lon="-73.9746871" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="42431560" lat="40.7672244" lon="-73.9862216" user="NJ Engineer" uid="703728" visible="true" version="7" changeset="12133742" timestamp="2012-07-06T19:17:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1659429133" lat="40.7682181" lon="-73.9808827" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:36Z"/>
+ <node id="42432867" lat="40.7583127" lon="-73.9629223" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:20:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1329122338" lat="40.7618888" lon="-73.9730316" user="robgeb" uid="336460" visible="true" version="3" changeset="10566998" timestamp="2012-02-02T12:29:55Z"/>
+ <node id="42431650" lat="40.7667187" lon="-73.9691270" user="NE2" uid="207745" visible="true" version="4" changeset="3410431" timestamp="2009-12-19T23:20:18Z"/>
+ <node id="1731961309" lat="40.8002063" lon="-73.9582984" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:40Z"/>
+ <node id="1719299417" lat="40.7622941" lon="-73.9742351" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1719299393" lat="40.7621711" lon="-73.9738332" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1757599643" lat="40.7628910" lon="-73.9748860" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:27:26Z"/>
+ <node id="1719299410" lat="40.7622766" lon="-73.9741932" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:16Z"/>
+ <node id="1719299391" lat="40.7621538" lon="-73.9739004" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="42445928" lat="40.7578600" lon="-73.9755910" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:59Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299445" lat="40.7624332" lon="-73.9741335" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="1719299430" lat="40.7623461" lon="-73.9741425" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42427786" lat="40.7453010" lon="-73.9868460" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5161739" timestamp="2010-07-07T20:48:58Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1731935946" lat="40.7647739" lon="-73.9737105" user="General Dreedle" uid="174796" visible="true" version="3" changeset="12777863" timestamp="2012-08-18T22:03:39Z"/>
+ <node id="1251382490" lat="40.7644270" lon="-73.9733308" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1757610162" lat="40.7630756" lon="-73.9753318" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z"/>
+ <node id="1719398758" lat="40.7649604" lon="-73.9753586" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:40Z"/>
+ <node id="1719299453" lat="40.7625199" lon="-73.9740155" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:18Z"/>
+ <node id="1251382383" lat="40.7647033" lon="-73.9730508" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:21Z"/>
+ <node id="42437358" lat="40.7534810" lon="-73.9808880" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42430745" lat="40.7702886" lon="-73.9914181" user="NE2" uid="207745" visible="true" version="7" changeset="3394677" timestamp="2009-12-17T15:31:01Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299387" lat="40.7621192" lon="-73.9739257" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="1740700807" lat="40.7670343" lon="-73.9794512" user="ger4rd" uid="90488" visible="true" version="1" changeset="11501901" timestamp="2012-05-04T20:22:45Z"/>
+ <node id="1757599639" lat="40.7633796" lon="-73.9745707" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="1719299438" lat="40.7623812" lon="-73.9742261" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:17Z"/>
+ <node id="42443528" lat="40.7572840" lon="-73.9781160" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1719299402" lat="40.7622415" lon="-73.9741096" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:15Z"/>
+ <node id="42433604" lat="40.7509590" lon="-73.9827240" user="Dylan Semler" uid="31855" visible="true" version="5" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="591998702" lat="40.7648253" lon="-73.9726165" user="NE2" uid="207745" visible="true" version="2" changeset="3423624" timestamp="2009-12-21T22:29:06Z"/>
+ <node id="1593924225" lat="40.7633418" lon="-73.9721685" user="robgeb" uid="336460" visible="true" version="1" changeset="10413443" timestamp="2012-01-16T23:07:03Z"/>
+ <node id="1329122402" lat="40.7645503" lon="-73.9746900" user="robgeb" uid="336460" visible="true" version="2" changeset="11691645" timestamp="2012-05-24T17:20:04Z"/>
+ <node id="1251382481" lat="40.7642276" lon="-73.9736222" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:22Z"/>
+ <node id="1757599645" lat="40.7637867" lon="-73.9740592" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z"/>
+ <node id="42432825" lat="40.7622894" lon="-73.9723599" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12113203" timestamp="2012-07-04T18:03:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42445896" lat="40.7458610" lon="-73.9843440" user="NE2" uid="207745" visible="true" version="4" changeset="3394023" timestamp="2009-12-17T14:38:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1595140678" lat="40.7620713" lon="-73.9756155" user="robgeb" uid="336460" visible="true" version="1" changeset="10420686" timestamp="2012-01-17T18:56:09Z"/>
+ <node id="42437644" lat="40.7484390" lon="-73.9845600" user="Dylan Semler" uid="31855" visible="true" version="6" changeset="5161739" timestamp="2010-07-07T20:48:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="42432436" lat="40.7528140" lon="-73.9813720" user="NJ Engineer" uid="703728" visible="true" version="6" changeset="12110019" timestamp="2012-07-04T12:26:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <way id="164100695" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z">
+  <nd ref="1757610151"/>
+  <nd ref="1757599642"/>
+  <nd ref="1757599643"/>
+  <nd ref="1757610159"/>
+  <nd ref="1757610151"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="156958129" user="andrewpmk" uid="1679" visible="true" version="2" changeset="13164633" timestamp="2012-09-19T02:14:22Z">
+  <nd ref="1691962434"/>
+  <nd ref="1691962438"/>
+  <nd ref="1691962436"/>
+  <nd ref="1691962431"/>
+  <nd ref="1691962434"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="767"/>
+  <tag k="addr:street" v="5th Avenue"/>
+  <tag k="brand" v="Apple Store"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:material" v="glass"/>
+  <tag k="name" v="Apple Store, Fifth Avenue"/>
+  <tag k="opening_hours" v="24/7"/>
+  <tag k="operator" v="Apple"/>
+  <tag k="roof:material" v="glass"/>
+  <tag k="shop" v="electronics"/>
+  <tag k="website" v="http://www.apple.com/retail/fifthavenue/"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="159831418" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:19Z">
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299397"/>
+  <nd ref="1719299400"/>
+  <nd ref="1719299405"/>
+  <nd ref="1719299409"/>
+  <nd ref="1719299418"/>
+  <nd ref="1719299427"/>
+  <nd ref="1719299434"/>
+  <nd ref="1719299437"/>
+  <nd ref="1719299442"/>
+  <nd ref="1719299445"/>
+  <nd ref="1719299449"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <tag k="building:levels" v="58"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="202"/>
+ </way>
+ <way id="159831423" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:22Z">
+  <nd ref="1719299417"/>
+  <nd ref="1719299422"/>
+  <nd ref="1719299431"/>
+  <nd ref="1719299438"/>
+  <nd ref="1719299443"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299398"/>
+  <nd ref="1719299401"/>
+  <nd ref="1719299403"/>
+  <nd ref="1719299407"/>
+  <nd ref="1719299417"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="25"/>
+ </way>
+ <way id="46334594" user="NE2" uid="207745" visible="true" version="4" changeset="5266930" timestamp="2010-07-20T04:00:35Z">
+  <nd ref="42447020"/>
+  <nd ref="42455113"/>
+  <nd ref="596775892"/>
+  <nd ref="42445953"/>
+  <nd ref="42453674"/>
+  <tag k="hgv" v="destination"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="East 60th Street"/>
+  <tag k="note" v="thru street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="60th"/>
+  <tag k="tiger:name_base_1" v="60"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_direction_prefix_1" v="E"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657598:59657583:59657576:59657474:59657438:59657192:59657200:59657448"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10022"/>
+  <tag k="tiger:zip_right" v="10022"/>
+ </way>
+ <way id="164097671" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z">
+  <nd ref="1757599647"/>
+  <nd ref="1000793189"/>
+  <nd ref="1757599648"/>
+  <nd ref="1757599640"/>
+  <nd ref="1757599652"/>
+  <nd ref="1757599645"/>
+  <nd ref="1757599647"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="164100693" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z">
+  <nd ref="1757610156"/>
+  <nd ref="1757610158"/>
+  <nd ref="1757610152"/>
+  <nd ref="1757610154"/>
+  <nd ref="1757610161"/>
+  <nd ref="1757610153"/>
+  <nd ref="1757610156"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="159831417" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:18:43Z">
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299398"/>
+  <nd ref="1719299401"/>
+  <nd ref="1719299403"/>
+  <nd ref="1719299407"/>
+  <nd ref="1487559379"/>
+  <nd ref="1719299422"/>
+  <nd ref="1719299431"/>
+  <nd ref="1719299438"/>
+  <nd ref="1719299443"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="725"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="5th Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="ele" v="16"/>
+  <tag k="gnis:feature_id" v="2083283"/>
+  <tag k="height" v="20"/>
+  <tag k="name" v="Trump Tower"/>
+  <tag k="start_date" v="1983"/>
+  <tag k="wikipedia" v="en:Trump Tower (New York City)"/>
+ </way>
+ <way id="146235736" user="LucasLarson" uid="38533" visible="true" version="2" changeset="11841065" timestamp="2012-06-09T03:08:03Z">
+  <nd ref="1595140672"/>
+  <nd ref="1595140678"/>
+  <nd ref="1595140681"/>
+  <nd ref="1595140676"/>
+  <nd ref="1595140672"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:street" v="West 55th Street"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="church"/>
+  <tag k="denomination" v="presbyterian"/>
+  <tag k="name" v="Fifth Avenue Presbyterian Church"/>
+  <tag k="religion" v="christian"/>
+  <tag k="start_date" v="1875"/>
+  <tag k="website" v="http://fapc.org"/>
+  <tag k="wikipedia" v="en:Fifth Avenue Presbyterian Church"/>
+ </way>
+ <way id="164097674" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:43Z">
+  <nd ref="1757599637"/>
+  <nd ref="1757599639"/>
+  <nd ref="1757599626"/>
+  <nd ref="1757599644"/>
+  <nd ref="1757599637"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="164100697" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:26Z">
+  <nd ref="1757610162"/>
+  <nd ref="1757610150"/>
+  <nd ref="1757610155"/>
+  <nd ref="1757610157"/>
+  <nd ref="1757610162"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="5672290" user="NE2" uid="207745" visible="true" version="4" changeset="5266930" timestamp="2010-07-20T03:59:20Z">
+  <nd ref="42453674"/>
+  <nd ref="42453676"/>
+  <nd ref="42453679"/>
+  <nd ref="42453682"/>
+  <nd ref="42453685"/>
+  <nd ref="42433870"/>
+  <tag k="hgv" v="destination"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Doris C. Freedman Place"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Doris C Freedman"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59661127"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+ </way>
+ <way id="5671574" user="OSMF Redaction Account" uid="722137" visible="true" version="10" changeset="12296681" timestamp="2012-07-18T20:15:37Z">
+  <nd ref="42440313"/>
+  <nd ref="42445950"/>
+  <nd ref="596775946"/>
+  <nd ref="42448317"/>
+  <nd ref="42447009"/>
+  <nd ref="42448321"/>
+  <nd ref="42424089"/>
+  <nd ref="371037281"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="East 59th Street"/>
+  <tag k="name_1" v="E 59 St"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="59th"/>
+  <tag k="tiger:name_base_1" v="59"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_direction_prefix_1" v="E"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657592:59657588:59657578:59657628:59657450:59657194:59657198:59657442:59657514"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10022"/>
+  <tag k="tiger:zip_right" v="10022"/>
+ </way>
+ <way id="86216905" user="robgeb" uid="336460" visible="true" version="2" changeset="10566998" timestamp="2012-02-02T12:29:56Z">
+  <nd ref="1000793170"/>
+  <nd ref="1000793173"/>
+  <nd ref="1000793174"/>
+  <nd ref="1000793175"/>
+  <nd ref="1000793170"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Tiffany"/>
+  <tag k="shop" v="jewelry"/>
+  <tag k="wikipedia" v="en:Tiffany &amp; Co."/>
+ </way>
+ <way id="86216907" user="robgeb" uid="336460" visible="true" version="4" changeset="11105880" timestamp="2012-03-26T14:06:46Z">
+  <nd ref="1000793198"/>
+  <nd ref="1000793200"/>
+  <nd ref="1000793201"/>
+  <nd ref="1593924238"/>
+  <nd ref="1593924239"/>
+  <nd ref="1593924234"/>
+  <nd ref="1593924232"/>
+  <nd ref="1000793202"/>
+  <nd ref="1000793198"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="767"/>
+  <tag k="addr:street" v="5th Avenue"/>
+  <tag k="building" v="office"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="15"/>
+  <tag k="name" v="GM Building"/>
+  <tag k="start_date" v="1968"/>
+  <tag k="wikipedia" v="en:General Motors Building (New York)"/>
+ </way>
+ <way id="5671129" user="NE2" uid="207745" visible="true" version="6" changeset="3410431" timestamp="2009-12-19T23:39:26Z">
+  <nd ref="42431544"/>
+  <nd ref="42443612"/>
+  <nd ref="596775951"/>
+  <nd ref="42443613"/>
+  <nd ref="42443614"/>
+  <nd ref="42443615"/>
+  <nd ref="42442960"/>
+  <nd ref="42443618"/>
+  <nd ref="42440567"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="East 56th Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="56th"/>
+  <tag k="tiger:name_base_1" v="56"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_direction_prefix_1" v="E"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59665364:59657602:59657496:59657180:59657240:59657244:59657488:59657526"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10022"/>
+  <tag k="tiger:zip_right" v="10022"/>
+ </way>
+ <way id="68668532" user="domob" uid="521541" visible="true" version="6" changeset="13000570" timestamp="2012-09-05T19:20:15Z">
+  <nd ref="42449187"/>
+  <nd ref="42435497"/>
+  <nd ref="42448203"/>
+  <nd ref="1773606888"/>
+  <nd ref="42439389"/>
+  <nd ref="42452951"/>
+  <nd ref="42438485"/>
+  <nd ref="1740694094"/>
+  <nd ref="42440397"/>
+  <nd ref="1740694093"/>
+  <nd ref="42436911"/>
+  <nd ref="42446455"/>
+  <nd ref="1209761660"/>
+  <nd ref="42454679"/>
+  <nd ref="42430050"/>
+  <nd ref="42439553"/>
+  <nd ref="42438788"/>
+  <nd ref="42436475"/>
+  <nd ref="42445225"/>
+  <nd ref="42429680"/>
+  <nd ref="42455693"/>
+  <nd ref="42431671"/>
+  <nd ref="42437423"/>
+  <nd ref="42447228"/>
+  <nd ref="42455662"/>
+  <nd ref="42431649"/>
+  <nd ref="42429970"/>
+  <nd ref="42456683"/>
+  <nd ref="42436510"/>
+  <nd ref="42453674"/>
+  <nd ref="1251382508"/>
+  <nd ref="42440313"/>
+  <nd ref="1251382533"/>
+  <nd ref="42427762"/>
+  <nd ref="42432818"/>
+  <nd ref="42431544"/>
+  <nd ref="42440951"/>
+  <nd ref="42450426"/>
+  <nd ref="42436700"/>
+  <nd ref="42446353"/>
+  <nd ref="42440452"/>
+  <nd ref="42440153"/>
+  <nd ref="805765088"/>
+  <nd ref="805765092"/>
+  <nd ref="42432580"/>
+  <nd ref="42443528"/>
+  <nd ref="42452353"/>
+  <nd ref="42434072"/>
+  <nd ref="42432693"/>
+  <nd ref="42443556"/>
+  <nd ref="42454428"/>
+  <nd ref="42437358"/>
+  <nd ref="42432436"/>
+  <nd ref="42446488"/>
+  <nd ref="42445649"/>
+  <nd ref="42433604"/>
+  <nd ref="42443950"/>
+  <nd ref="42452973"/>
+  <nd ref="42434946"/>
+  <nd ref="42437644"/>
+  <nd ref="42446701"/>
+  <nd ref="42443680"/>
+  <nd ref="42451674"/>
+  <nd ref="42437686"/>
+  <nd ref="42427786"/>
+  <nd ref="42438544"/>
+  <nd ref="42434800"/>
+  <nd ref="42429874"/>
+  <tag k="hgv" v="no"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="5th Avenue"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="5th"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657991:59657986:59657750:59657748:59657811:59657813:59657809:59657801:59657799:59657824:59657826:59657828:59656975:59656963:59656965:59656967:59657803:59657805:59662664:59662665:59657719:59656971:59657321:59657265:59657267:59657269:59657325:59657313:596"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10035"/>
+  <tag k="tiger:zip_right" v="10035"/>
+ </way>
+ <way id="5672752" user="NJ Engineer" uid="703728" visible="true" version="16" changeset="12050908" timestamp="2012-06-28T20:57:35Z">
+  <nd ref="42432818"/>
+  <nd ref="42430384"/>
+  <nd ref="42440022"/>
+  <nd ref="1792535217"/>
+  <nd ref="42428329"/>
+  <nd ref="42435714"/>
+  <nd ref="42445037"/>
+  <nd ref="42455643"/>
+  <nd ref="42430745"/>
+  <tag k="access" v="designated"/>
+  <tag k="cycleway" v="no"/>
+  <tag k="foot" v="designated"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="primary"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="West 57th Street"/>
+  <tag k="name_1" v="W 57 St"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="57th"/>
+  <tag k="tiger:name_base_1" v="57"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59655066:59662222:59661469:59657091:59657096:59655252:59657175:59657122:59655128"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10019"/>
+  <tag k="tiger:zip_right" v="10019"/>
+ </way>
+ <way id="109269754" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:24Z">
+  <nd ref="1251382527"/>
+  <nd ref="1251382481"/>
+  <nd ref="1251382427"/>
+  <nd ref="1251382514"/>
+  <nd ref="1251382533"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="164097668" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:18:42Z">
+  <nd ref="1757599639"/>
+  <nd ref="1757599637"/>
+  <nd ref="1757599640"/>
+  <nd ref="1757599648"/>
+  <nd ref="1000793186"/>
+  <nd ref="1757599646"/>
+  <nd ref="1757599639"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="5670874" user="OSMF Redaction Account" uid="722137" visible="true" version="6" changeset="12296681" timestamp="2012-07-18T20:15:36Z">
+  <nd ref="42440313"/>
+  <nd ref="1251382490"/>
+  <nd ref="42434346"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Grand Army Plaza"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Grand Army"/>
+  <tag k="tiger:name_type" v="Plz"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657188"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+ </way>
+ <way id="161202890" user="robgeb" uid="336460" visible="true" version="2" changeset="11424997" timestamp="2012-04-26T15:28:50Z">
+  <nd ref="1731961303"/>
+  <nd ref="1695379677"/>
+  <nd ref="1695379702"/>
+  <nd ref="1695379687"/>
+  <nd ref="1695379678"/>
+  <nd ref="1695379696"/>
+  <nd ref="1695379684"/>
+  <nd ref="1695379676"/>
+  <nd ref="1731961306"/>
+  <nd ref="1731935940"/>
+  <nd ref="1731935943"/>
+  <nd ref="1731935946"/>
+  <nd ref="322545459"/>
+  <nd ref="1659428993"/>
+  <nd ref="1659429007"/>
+  <nd ref="1659429015"/>
+  <nd ref="1659429055"/>
+  <nd ref="1659429016"/>
+  <nd ref="1659429068"/>
+  <nd ref="1659429074"/>
+  <nd ref="1659429128"/>
+  <nd ref="1659429133"/>
+  <nd ref="1659429187"/>
+  <nd ref="1659429184"/>
+  <nd ref="1659429222"/>
+  <nd ref="1659429214"/>
+  <nd ref="1659429220"/>
+  <nd ref="1659429225"/>
+  <nd ref="1420634266"/>
+  <nd ref="1659429258"/>
+  <nd ref="1659429260"/>
+  <nd ref="1659429263"/>
+  <nd ref="1731961309"/>
+  <nd ref="1731961298"/>
+  <nd ref="1731961289"/>
+  <nd ref="1731961296"/>
+  <nd ref="1731961301"/>
+  <nd ref="1731961303"/>
+  <tag k="ele" v="34"/>
+  <tag k="gnis:feature_id" v="946252"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Central Park"/>
+  <tag k="NRHP" v="66000538"/>
+  <tag k="start_date" v="1857"/>
+  <tag k="wikipedia" v="en:Central Park"/>
+ </way>
+ <way id="159831419" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:19Z">
+  <nd ref="1719299410"/>
+  <nd ref="1719299417"/>
+  <nd ref="1719299428"/>
+  <nd ref="1719299431"/>
+  <nd ref="1719299438"/>
+  <nd ref="1719299443"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299398"/>
+  <nd ref="1719299401"/>
+  <nd ref="1719299403"/>
+  <nd ref="1719299410"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="30"/>
+ </way>
+ <way id="86216906" user="robgeb" uid="336460" visible="true" version="3" changeset="11637016" timestamp="2012-05-18T20:18:44Z">
+  <nd ref="1000793186"/>
+  <nd ref="1000793187"/>
+  <nd ref="1000793188"/>
+  <nd ref="1000793189"/>
+  <nd ref="1757599648"/>
+  <nd ref="1000793186"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:street" v="West 57th street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="50"/>
+  <tag k="height" v="210"/>
+  <tag k="name" v="Solow Building"/>
+  <tag k="start_date" v="1974"/>
+  <tag k="wikipedia" v="en:Solow Building"/>
+ </way>
+ <way id="164097672" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:27:26Z">
+  <nd ref="1757599642"/>
+  <nd ref="1757599643"/>
+  <nd ref="1757610156"/>
+  <nd ref="1757610153"/>
+  <nd ref="1757599641"/>
+  <nd ref="1757599638"/>
+  <nd ref="1757599642"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="137883073" user="robgeb" uid="336460" visible="true" version="1" changeset="9901750" timestamp="2011-11-21T21:13:13Z">
+  <nd ref="1511944215"/>
+  <nd ref="1511944211"/>
+  <nd ref="1511944214"/>
+  <nd ref="1511944213"/>
+  <nd ref="1511944215"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="712"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Fifth Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="53"/>
+  <tag k="ele" v="17"/>
+  <tag k="gnis:feature_id" v="2083281"/>
+  <tag k="height" v="198"/>
+  <tag k="name" v="Henri Bendel Building"/>
+  <tag k="start_date" v="1991"/>
+ </way>
+ <way id="159831420" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:20Z">
+  <nd ref="1719299402"/>
+  <nd ref="1719299406"/>
+  <nd ref="1719299414"/>
+  <nd ref="1719299420"/>
+  <nd ref="1719299430"/>
+  <nd ref="1719299436"/>
+  <nd ref="1719299440"/>
+  <nd ref="1719299443"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299398"/>
+  <nd ref="1719299402"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="40"/>
+ </way>
+ <way id="86216908" user="robgeb" uid="336460" visible="true" version="2" changeset="11637016" timestamp="2012-05-18T20:18:44Z">
+  <nd ref="1757599626"/>
+  <nd ref="1000793210"/>
+  <nd ref="1000793215"/>
+  <nd ref="1757599645"/>
+  <nd ref="1757599652"/>
+  <nd ref="1757599644"/>
+  <nd ref="1757599626"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Bergdorf Goodman"/>
+  <tag k="shop" v="clothes"/>
+ </way>
+ <way id="46583189" user="JessAk71" uid="381909" visible="true" version="2" changeset="7908417" timestamp="2011-04-19T17:06:25Z">
+  <nd ref="42434346"/>
+  <nd ref="1251382527"/>
+  <nd ref="42427764"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Grand Army Plaza"/>
+  <tag k="name_1" v="5 Ave"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Grand Army"/>
+  <tag k="tiger:name_base_1" v="5"/>
+  <tag k="tiger:name_type" v="Plz"/>
+  <tag k="tiger:name_type_1" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657187:59661060"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+ </way>
+ <way id="109269751" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z">
+  <nd ref="1251382427"/>
+  <nd ref="1251382490"/>
+  <nd ref="1251382377"/>
+  <nd ref="1251382523"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="118116807" user="robgeb" uid="336460" visible="true" version="5" changeset="11105880" timestamp="2012-03-26T13:54:20Z">
+  <nd ref="1329122317"/>
+  <nd ref="1329122321"/>
+  <nd ref="1615563207"/>
+  <nd ref="1329122338"/>
+  <nd ref="1615563216"/>
+  <nd ref="1329122340"/>
+  <nd ref="1615563215"/>
+  <nd ref="1329122317"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="590"/>
+  <tag k="addr:street" v="Madison Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="20"/>
+  <tag k="name" v="590 Madison Avenue"/>
+  <tag k="old_name" v="IBM Building"/>
+  <tag k="start_date" v="1983"/>
+  <tag k="wikipedia" v="en:590 Madison Avenue"/>
+ </way>
+ <way id="159831421" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:20Z">
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299400"/>
+  <nd ref="1719299402"/>
+  <nd ref="1719299409"/>
+  <nd ref="1719299414"/>
+  <nd ref="1719299427"/>
+  <nd ref="1719299430"/>
+  <nd ref="1719299437"/>
+  <nd ref="1719299440"/>
+  <nd ref="1719299445"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="45"/>
+ </way>
+ <way id="109269756" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:24Z">
+  <nd ref="1251382481"/>
+  <nd ref="1251382517"/>
+  <nd ref="1251382547"/>
+  <nd ref="1251382514"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="159831422" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:21Z">
+  <nd ref="1719299406"/>
+  <nd ref="1719299410"/>
+  <nd ref="1719299420"/>
+  <nd ref="1719299428"/>
+  <nd ref="1719299436"/>
+  <nd ref="1719299438"/>
+  <nd ref="1719299443"/>
+  <nd ref="1719299447"/>
+  <nd ref="1719299451"/>
+  <nd ref="1719299454"/>
+  <nd ref="1487559377"/>
+  <nd ref="1719299455"/>
+  <nd ref="1719299453"/>
+  <nd ref="1719299452"/>
+  <nd ref="1719299450"/>
+  <nd ref="1719299448"/>
+  <nd ref="1719299446"/>
+  <nd ref="1719299444"/>
+  <nd ref="1719299441"/>
+  <nd ref="1719299439"/>
+  <nd ref="1719299432"/>
+  <nd ref="1719299429"/>
+  <nd ref="1719299411"/>
+  <nd ref="1719299408"/>
+  <nd ref="1719299404"/>
+  <nd ref="1719299399"/>
+  <nd ref="1719299395"/>
+  <nd ref="1719299390"/>
+  <nd ref="1719299393"/>
+  <nd ref="1719299388"/>
+  <nd ref="1719299391"/>
+  <nd ref="1719299387"/>
+  <nd ref="1719299389"/>
+  <nd ref="1719299392"/>
+  <nd ref="1719299394"/>
+  <nd ref="1719299396"/>
+  <nd ref="1719299398"/>
+  <nd ref="1719299401"/>
+  <nd ref="1719299406"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="35"/>
+ </way>
+ <way id="46340250" user="LucasLarson" uid="38533" visible="true" version="5" changeset="11132167" timestamp="2012-03-28T23:36:25Z">
+  <nd ref="591998556"/>
+  <nd ref="1695371064"/>
+  <nd ref="1695371015"/>
+  <nd ref="1695371012"/>
+  <nd ref="591998543"/>
+  <nd ref="1695371076"/>
+  <nd ref="1695370999"/>
+  <nd ref="1695371040"/>
+  <nd ref="591998527"/>
+  <nd ref="1695371067"/>
+  <nd ref="591998490"/>
+  <nd ref="1695370994"/>
+  <nd ref="1695371061"/>
+  <nd ref="1695371060"/>
+  <nd ref="591998513"/>
+  <nd ref="1695371046"/>
+  <nd ref="1695371033"/>
+  <nd ref="591998457"/>
+  <nd ref="1695371032"/>
+  <nd ref="591998473"/>
+  <nd ref="591998708"/>
+  <nd ref="591998713"/>
+  <nd ref="591998694"/>
+  <nd ref="597882888"/>
+  <nd ref="591998702"/>
+  <nd ref="597882896"/>
+  <nd ref="591998441"/>
+  <nd ref="591998737"/>
+  <nd ref="591999065"/>
+  <nd ref="591999102"/>
+  <tag k="electrified" v="rail"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1435"/>
+  <tag k="layer" v="-3"/>
+  <tag k="name" v="BMT Broadway Line"/>
+  <tag k="railway" v="subway"/>
+  <tag k="tunnel" v="yes"/>
+  <tag k="voltage" v="625"/>
+ </way>
+ <way id="164100691" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:25Z">
+  <nd ref="1757610150"/>
+  <nd ref="1757610155"/>
+  <nd ref="1757610160"/>
+  <nd ref="1757610159"/>
+  <nd ref="1757610150"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="109269753" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:24Z">
+  <nd ref="1251382472"/>
+  <nd ref="1251382377"/>
+  <nd ref="1251382508"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="5669664" user="NE2" uid="207745" visible="true" version="3" changeset="3396277" timestamp="2009-12-17T21:30:13Z">
+  <nd ref="42427764"/>
+  <nd ref="42427762"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="West 58th Street"/>
+  <tag k="name_1" v="W 58th St"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="West 58th"/>
+  <tag k="tiger:name_base_1" v="58th"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657178"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+ </way>
+ <way id="5670873" user="dchiles" uid="153669" visible="true" version="6" changeset="8135142" timestamp="2011-05-13T20:23:42Z">
+  <nd ref="42433870"/>
+  <nd ref="1283225217"/>
+  <nd ref="1283225262"/>
+  <nd ref="42440296"/>
+  <nd ref="1251382472"/>
+  <nd ref="42440304"/>
+  <nd ref="42434346"/>
+  <tag k="hgv" v="destination"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Grand Army Plaza"/>
+  <tag k="name_1" v="5 Ave"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Grand Army"/>
+  <tag k="tiger:name_base_1" v="5"/>
+  <tag k="tiger:name_type" v="Plz"/>
+  <tag k="tiger:name_type_1" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657187:59661060"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+ </way>
+ <way id="118116808" user="robgeb" uid="336460" visible="true" version="2" changeset="11175115" timestamp="2012-04-04T11:15:51Z">
+  <nd ref="1329122433"/>
+  <nd ref="1329122449"/>
+  <nd ref="1329122395"/>
+  <nd ref="1329122452"/>
+  <nd ref="1329122406"/>
+  <nd ref="1329122415"/>
+  <nd ref="1329122416"/>
+  <nd ref="1329122461"/>
+  <nd ref="1329122455"/>
+  <nd ref="1329122462"/>
+  <nd ref="1329122458"/>
+  <nd ref="1329122450"/>
+  <nd ref="1329122453"/>
+  <nd ref="1329122402"/>
+  <nd ref="1329122433"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Plaza Hotel"/>
+  <tag k="operator" v="Fairmont Hotels and Resorts"/>
+  <tag k="stars" v="5"/>
+  <tag k="tourism" v="hotel"/>
+ </way>
+ <way id="5671393" user="NE2" uid="207745" visible="true" version="9" changeset="5266930" timestamp="2010-07-20T03:58:48Z">
+  <nd ref="42445867"/>
+  <nd ref="42436575"/>
+  <nd ref="42445879"/>
+  <nd ref="42429876"/>
+  <nd ref="42445885"/>
+  <nd ref="42445888"/>
+  <nd ref="42436746"/>
+  <nd ref="42445404"/>
+  <nd ref="42445896"/>
+  <nd ref="42445899"/>
+  <nd ref="42445903"/>
+  <nd ref="42445365"/>
+  <nd ref="42434948"/>
+  <nd ref="42445908"/>
+  <nd ref="42445909"/>
+  <nd ref="42445910"/>
+  <nd ref="42445651"/>
+  <nd ref="42445914"/>
+  <nd ref="42432438"/>
+  <nd ref="42445916"/>
+  <nd ref="42445917"/>
+  <nd ref="42445920"/>
+  <nd ref="42444043"/>
+  <nd ref="42434074"/>
+  <nd ref="42445924"/>
+  <nd ref="42445926"/>
+  <nd ref="42438881"/>
+  <nd ref="42445928"/>
+  <nd ref="42440453"/>
+  <nd ref="42445930"/>
+  <nd ref="42436701"/>
+  <nd ref="42445936"/>
+  <nd ref="42445941"/>
+  <nd ref="42443612"/>
+  <nd ref="42432825"/>
+  <nd ref="42445947"/>
+  <nd ref="42445950"/>
+  <nd ref="42445953"/>
+  <nd ref="42436511"/>
+  <nd ref="42445961"/>
+  <nd ref="42429971"/>
+  <nd ref="42431650"/>
+  <nd ref="42445972"/>
+  <nd ref="42445976"/>
+  <nd ref="42437425"/>
+  <nd ref="42431674"/>
+  <nd ref="42445994"/>
+  <nd ref="42429682"/>
+  <nd ref="42445227"/>
+  <nd ref="42436477"/>
+  <nd ref="42438791"/>
+  <nd ref="42439556"/>
+  <nd ref="42430052"/>
+  <nd ref="42446013"/>
+  <nd ref="42446016"/>
+  <nd ref="42436913"/>
+  <nd ref="42446021"/>
+  <nd ref="42438487"/>
+  <nd ref="42446026"/>
+  <nd ref="42439392"/>
+  <nd ref="42446031"/>
+  <nd ref="42435499"/>
+  <tag k="hgv" v="destination"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Madison Avenue"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Madison"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59656498:59664695:59656500"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10037"/>
+  <tag k="tiger:zip_right" v="10037"/>
+ </way>
+ <way id="109269752" user="JessAk71" uid="381909" visible="true" version="1" changeset="7908417" timestamp="2011-04-19T17:06:23Z">
+  <nd ref="1251382368"/>
+  <nd ref="1251382434"/>
+  <nd ref="1251382485"/>
+  <nd ref="1251382383"/>
+  <nd ref="1251382523"/>
+  <nd ref="1251382368"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="46538410" user="mjulius" uid="7412" visible="true" version="2" changeset="3669659" timestamp="2010-01-20T21:19:46Z">
+  <nd ref="595269653"/>
+  <nd ref="42450341"/>
+  <nd ref="42445039"/>
+  <nd ref="42435716"/>
+  <nd ref="42428332"/>
+  <nd ref="42440025"/>
+  <nd ref="42430390"/>
+  <nd ref="42427764"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="West 58th Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="58th"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59655065:59662223:59661472:59657084:59657087:59657177:59657124:59655147:59655134"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10019"/>
+  <tag k="tiger:zip_right" v="10019"/>
+ </way>
+ <way id="146117223" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T14:06:46Z">
+  <nd ref="1593924237"/>
+  <nd ref="1593924235"/>
+  <nd ref="1593924238"/>
+  <nd ref="1593924239"/>
+  <nd ref="1593924234"/>
+  <nd ref="1593924232"/>
+  <nd ref="1593924229"/>
+  <nd ref="1593924227"/>
+  <nd ref="1593924223"/>
+  <nd ref="1593924225"/>
+  <nd ref="1593924221"/>
+  <nd ref="1593924226"/>
+  <nd ref="1593924230"/>
+  <nd ref="1593924231"/>
+  <nd ref="1593924237"/>
+  <tag k="building:level" v="50"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="215"/>
+ </way>
+ <way id="148457073" user="robgeb" uid="336460" visible="true" version="2" changeset="11105880" timestamp="2012-03-26T13:54:21Z">
+  <nd ref="1615563215"/>
+  <nd ref="1329122338"/>
+  <nd ref="1615563207"/>
+  <nd ref="1329122321"/>
+  <nd ref="1329122317"/>
+  <nd ref="1615563215"/>
+  <tag k="building:levels" v="41"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="184"/>
+ </way>
+ <way id="159842475" user="robgeb" uid="336460" visible="true" version="1" changeset="11323422" timestamp="2012-04-16T15:47:41Z">
+  <nd ref="1719398755"/>
+  <nd ref="1719398756"/>
+  <nd ref="1719398758"/>
+  <nd ref="1719398757"/>
+  <nd ref="1719398760"/>
+  <nd ref="1719398759"/>
+  <nd ref="1719398755"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Central Park South"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="46"/>
+  <tag k="height" v="137"/>
+  <tag k="name" v="Park Lane Hotel"/>
+  <tag k="start_date" v="1971"/>
+  <tag k="tourism" v="hotel"/>
+  <tag k="website" v="http://www.helmsleyparklane.com/"/>
+ </way>
+ <way id="46538382" user="LucasLarson" uid="38533" visible="true" version="2" changeset="11931882" timestamp="2012-06-17T23:48:12Z">
+  <nd ref="595269561"/>
+  <nd ref="42431563"/>
+  <nd ref="42431560"/>
+  <nd ref="42431556"/>
+  <nd ref="42428328"/>
+  <nd ref="1792535230"/>
+  <nd ref="42431549"/>
+  <nd ref="42430378"/>
+  <nd ref="42431544"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="West 56th Street"/>
+  <tag k="name_1" v="W 56 St"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="56th"/>
+  <tag k="tiger:name_base_1" v="56"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59664642:59662221:59661466:59657098:59657089:59655250:59657126:59657114:59655126"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10019"/>
+  <tag k="tiger:zip_right" v="10019"/>
+ </way>
+ <way id="164100701" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:26Z">
+  <nd ref="1757599641"/>
+  <nd ref="1757610154"/>
+  <nd ref="1757610161"/>
+  <nd ref="1757610153"/>
+  <nd ref="1757599641"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="5672951" user="NE2" uid="207745" visible="true" version="5" changeset="3410431" timestamp="2009-12-19T22:58:39Z">
+  <nd ref="42427762"/>
+  <nd ref="42445947"/>
+  <nd ref="596775941"/>
+  <nd ref="42456598"/>
+  <nd ref="42447007"/>
+  <nd ref="42449971"/>
+  <nd ref="42442961"/>
+  <nd ref="42423565"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="East 58th Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="58th"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657594:59657585:59657490:59657190:59657202:59657440:59657512:59657518"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10022"/>
+  <tag k="tiger:zip_right" v="10022"/>
+ </way>
+ <way id="164100699" user="robgeb" uid="336460" visible="true" version="1" changeset="11637016" timestamp="2012-05-18T20:27:26Z">
+  <nd ref="1757610159"/>
+  <nd ref="1757599643"/>
+  <nd ref="1757610156"/>
+  <nd ref="1757610158"/>
+  <nd ref="1757610160"/>
+  <nd ref="1757610159"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="109269750" user="robgeb" uid="336460" visible="true" version="2" changeset="11421515" timestamp="2012-04-26T09:12:16Z">
+  <nd ref="1251382457"/>
+  <nd ref="1251382433"/>
+  <nd ref="1251382431"/>
+  <nd ref="1251382467"/>
+  <nd ref="1251382511"/>
+  <nd ref="1251382540"/>
+  <nd ref="1251382462"/>
+  <nd ref="1251382417"/>
+  <nd ref="1251382409"/>
+  <nd ref="1251382430"/>
+  <nd ref="1251382425"/>
+  <nd ref="1251382374"/>
+  <nd ref="1251382353"/>
+  <nd ref="1251382457"/>
+  <tag k="ele" v="15"/>
+  <tag k="gnis:feature_id" v="2083287"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Grand Army Plaza"/>
+  <tag k="wikipedia" v="en:Grand Army Plaza (Manhattan)"/>
+ </way>
+ <way id="5670139" user="NE2" uid="207745" visible="true" version="9" changeset="5266555" timestamp="2010-07-20T01:34:10Z">
+  <nd ref="42432818"/>
+  <nd ref="42432825"/>
+  <nd ref="596775935"/>
+  <nd ref="42432834"/>
+  <nd ref="42432847"/>
+  <nd ref="42432856"/>
+  <nd ref="42432861"/>
+  <nd ref="42423564"/>
+  <nd ref="42432867"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="East 57th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="57th"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59662719:59657586:59657600:59657492:59657196:59657204:59657482:59657510:59657516"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10022"/>
+  <tag k="tiger:zip_right" v="10022"/>
+ </way>
+ <way id="5670253" user="OSMF Redaction Account" uid="722137" visible="true" version="11" changeset="12296681" timestamp="2012-07-18T20:15:37Z">
+  <nd ref="42434346"/>
+  <nd ref="42430394"/>
+  <nd ref="1740700804"/>
+  <nd ref="42423674"/>
+  <nd ref="1283225231"/>
+  <nd ref="1740700807"/>
+  <nd ref="1792535231"/>
+  <tag k="alt_name" v="West 59th Street"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Central Park South"/>
+  <tag k="name_1" v="W 59 St"/>
+  <tag k="oneway" v="0"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Central Park"/>
+  <tag k="tiger:name_base_1" v="59"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_direction_suffix" v="S"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="59657173:59657120:59664506"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-397c8f83-0473-4656-90f7-dc47b612c209"/>
+  <tag k="tiger:zip_left" v="10019"/>
+  <tag k="tiger:zip_left_1" v="10019"/>
+ </way>
+ <relation id="366768" user="Eliyak" uid="439046" visible="true" version="24" changeset="11772076" timestamp="2012-06-01T21:54:25Z">
+  <member type="way" ref="46346751" role=""/>
+  <member type="way" ref="46340250" role=""/>
+  <member type="way" ref="46340228" role=""/>
+  <member type="way" ref="46340242" role=""/>
+  <member type="way" ref="46340270" role=""/>
+  <member type="way" ref="46343174" role=""/>
+  <member type="way" ref="25428713" role=""/>
+  <member type="way" ref="46340143" role=""/>
+  <member type="way" ref="46340142" role=""/>
+  <member type="way" ref="103242777" role=""/>
+  <member type="way" ref="46340134" role=""/>
+  <member type="way" ref="46340162" role=""/>
+  <member type="way" ref="46340164" role=""/>
+  <member type="way" ref="113082100" role=""/>
+  <member type="way" ref="46340147" role=""/>
+  <member type="way" ref="46340201" role=""/>
+  <member type="way" ref="46340238" role=""/>
+  <member type="node" ref="597895148" role=""/>
+  <member type="node" ref="544355596" role=""/>
+  <member type="node" ref="597928334" role=""/>
+  <member type="node" ref="410162267" role="late nights"/>
+  <member type="node" ref="597928333" role="late nights"/>
+  <member type="node" ref="597928328" role="late nights and weekends"/>
+  <member type="node" ref="597928329" role="late nights and weekends"/>
+  <member type="node" ref="597928330" role="late nights and weekends"/>
+  <member type="node" ref="544355768" role="late nights and weekends"/>
+  <member type="node" ref="544356374" role=""/>
+  <member type="node" ref="597928323" role=""/>
+  <member type="node" ref="597928324" role=""/>
+  <member type="node" ref="597928325" role=""/>
+  <member type="node" ref="597928318" role=""/>
+  <member type="node" ref="219763271" role="late nights"/>
+  <member type="node" ref="598725899" role=""/>
+  <member type="node" ref="219726610" role="late nights"/>
+  <member type="node" ref="316542438" role="late nights"/>
+  <member type="node" ref="614006083" role="late nights"/>
+  <member type="node" ref="506137851" role="late nights"/>
+  <member type="node" ref="1289069583" role=""/>
+  <tag k="color" v="yellow"/>
+  <tag k="name" v="N train"/>
+  <tag k="network" v="NYC Subway"/>
+  <tag k="ref" v="N"/>
+  <tag k="route" v="subway"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2139411" user="robgeb" uid="336460" visible="true" version="1" changeset="11322484" timestamp="2012-04-16T14:14:22Z">
+  <member type="way" ref="159831417" role=""/>
+  <member type="way" ref="159831423" role=""/>
+  <member type="way" ref="159831419" role=""/>
+  <member type="way" ref="159831422" role=""/>
+  <member type="way" ref="159831420" role=""/>
+  <member type="way" ref="159831421" role=""/>
+  <member type="way" ref="159831418" role=""/>
+  <tag k="type" v="building"/>
+ </relation>
+ <relation id="2100784" user="robgeb" uid="336460" visible="true" version="1" changeset="11105880" timestamp="2012-03-26T14:06:45Z">
+  <member type="way" ref="86216907" role=""/>
+  <member type="way" ref="146117223" role=""/>
+  <tag k="name" v="GM Building"/>
+  <tag k="type" v="building"/>
+ </relation>
+ <relation id="366780" user="OSMF Redaction Account" uid="722137" visible="true" version="22" changeset="12296835" timestamp="2012-07-18T20:20:21Z">
+  <member type="way" ref="46340148" role=""/>
+  <member type="way" ref="46695597" role=""/>
+  <member type="way" ref="46340250" role=""/>
+  <member type="way" ref="46340228" role=""/>
+  <member type="way" ref="46340274" role=""/>
+  <member type="way" ref="46340277" role=""/>
+  <member type="way" ref="46340278" role=""/>
+  <member type="way" ref="46340231" role=""/>
+  <member type="way" ref="46340132" role=""/>
+  <member type="way" ref="46340163" role=""/>
+  <member type="way" ref="46340164" role=""/>
+  <member type="way" ref="113082100" role=""/>
+  <member type="way" ref="46340201" role=""/>
+  <member type="way" ref="46343178" role=""/>
+  <member type="node" ref="597895148" role=""/>
+  <member type="node" ref="544355596" role=""/>
+  <member type="node" ref="597928334" role=""/>
+  <member type="node" ref="410162267" role=""/>
+  <member type="node" ref="597928333" role=""/>
+  <member type="node" ref="597928328" role=""/>
+  <member type="node" ref="597928329" role=""/>
+  <member type="node" ref="597928330" role=""/>
+  <member type="node" ref="544355768" role=""/>
+  <member type="node" ref="544356374" role=""/>
+  <member type="node" ref="597928323" role=""/>
+  <member type="node" ref="597928324" role=""/>
+  <member type="node" ref="597928325" role=""/>
+  <member type="node" ref="597928318" role=""/>
+  <member type="node" ref="219763271" role=""/>
+  <member type="node" ref="598725899" role=""/>
+  <member type="node" ref="219726610" role=""/>
+  <member type="node" ref="614006083" role=""/>
+  <member type="node" ref="316542438" role=""/>
+  <member type="node" ref="1012069553" role=""/>
+  <member type="node" ref="1012078592" role=""/>
+  <member type="node" ref="1012078596" role=""/>
+  <member type="node" ref="1012078587" role=""/>
+  <member type="node" ref="1012078588" role=""/>
+  <member type="node" ref="1012078589" role=""/>
+  <member type="node" ref="279155458" role=""/>
+  <member type="node" ref="1012304933" role=""/>
+  <member type="node" ref="1012304937" role=""/>
+  <member type="node" ref="1012304939" role=""/>
+  <member type="node" ref="1012304941" role=""/>
+  <member type="node" ref="506137851" role=""/>
+  <member type="node" ref="1289069583" role=""/>
+  <tag k="color" v="yellow"/>
+  <tag k="name" v="R train"/>
+  <tag k="network" v="NYC Subway"/>
+  <tag k="ref" v="R"/>
+  <tag k="route" v="subway"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="366781" user="vanmour" uid="479277" visible="true" version="9" changeset="8586350" timestamp="2011-06-30T01:02:37Z">
+  <member type="way" ref="46340250" role=""/>
+  <member type="way" ref="46340270" role=""/>
+  <member type="way" ref="46343174" role=""/>
+  <member type="way" ref="25428713" role=""/>
+  <member type="node" ref="597895148" role=""/>
+  <member type="node" ref="544355596" role=""/>
+  <member type="node" ref="597928334" role=""/>
+  <member type="node" ref="410162267" role=""/>
+  <member type="node" ref="597928333" role=""/>
+  <member type="node" ref="597928328" role=""/>
+  <member type="node" ref="597928329" role=""/>
+  <member type="node" ref="597928330" role=""/>
+  <member type="node" ref="544355768" role=""/>
+  <member type="node" ref="544356374" role=""/>
+  <member type="node" ref="597928323" role=""/>
+  <member type="node" ref="597928324" role=""/>
+  <member type="node" ref="597928325" role=""/>
+  <member type="node" ref="597928318" role=""/>
+  <tag k="FIXME" v="Why two Q relations?"/>
+  <tag k="name" v="Q train"/>
+  <tag k="network" v="NYC Subway"/>
+  <tag k="ref" v="Q"/>
+  <tag k="route" v="subway"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2255494" user="NJ Engineer" uid="703728" visible="true" version="2" changeset="12050957" timestamp="2012-06-28T21:02:57Z">
+  <member type="way" ref="169381957" role=""/>
+  <member type="way" ref="68674958" role=""/>
+  <member type="way" ref="95181769" role=""/>
+  <member type="way" ref="46538405" role=""/>
+  <member type="way" ref="46538396" role=""/>
+  <member type="way" ref="5669975" role=""/>
+  <member type="way" ref="22904155" role=""/>
+  <member type="way" ref="5672752" role=""/>
+  <member type="way" ref="5670139" role=""/>
+  <member type="way" ref="169381960" role=""/>
+  <member type="way" ref="68668551" role="forward"/>
+  <member type="way" ref="5672515" role="forward"/>
+  <member type="way" ref="169381963" role=""/>
+  <member type="way" ref="46694752" role="forward"/>
+  <member type="way" ref="169381962" role="forward"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="operator" v="MTA"/>
+  <tag k="ref" v="M57"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2100771" user="robgeb" uid="336460" visible="true" version="1" changeset="11105880" timestamp="2012-03-26T13:54:20Z">
+  <member type="way" ref="118116807" role=""/>
+  <member type="way" ref="148457073" role=""/>
+  <tag k="name" v="590 Madison Avenue"/>
+  <tag k="type" v="building"/>
+ </relation>
+</osm>

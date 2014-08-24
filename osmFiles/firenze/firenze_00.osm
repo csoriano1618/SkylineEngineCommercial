@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="sE">
+	<bounds minlat="43.7731" minlon="11.26605" maxlat="43.77551" maxlon="11.26937"/>
+	<node id="1050026629" lat="43.7765123" lon="11.2685373" changeset="6710449" uid="192299" timestamp="2010-12-19T20:51:14Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="253248006" lat="43.7747826" lon="11.2646078" changeset="365110" uid="1700" timestamp="2008-03-21T20:31:24Z" visible="true" version="1" user="Diego Guidotti"/>
+	<node id="249264780" lat="43.7725774" lon="11.2651493" changeset="260207" uid="4987" timestamp="2008-03-03T01:55:20Z" visible="true" version="2" user="marcusb">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="249264782" lat="43.7739103" lon="11.2663056" changeset="527179" uid="17383" timestamp="2008-05-26T10:12:34Z" visible="true" version="3" user="grampasso"/>
+	<node id="269532440" lat="43.7762605" lon="11.2658931" changeset="121845" uid="17383" timestamp="2008-06-10T15:53:29Z" visible="true" version="1" user="grampasso"/>
+	<node id="299853208" lat="43.7747117" lon="11.2689793" changeset="701860" uid="49848" timestamp="2008-09-26T00:18:50Z" visible="true" version="1" user="Simone Piccardi">
+		<tag k="created_by" v="Merkaartor 0.11"/>
+	</node>
+	<node id="299853210" lat="43.7733405" lon="11.2677777" changeset="701860" uid="49848" timestamp="2008-09-26T00:18:50Z" visible="true" version="1" user="Simone Piccardi">
+		<tag k="created_by" v="Merkaartor 0.11"/>
+	</node>
+	<node id="299853211" lat="43.773937" lon="11.2664473" changeset="701860" uid="49848" timestamp="2008-09-26T00:18:50Z" visible="true" version="1" user="Simone Piccardi">
+		<tag k="created_by" v="Merkaartor 0.11"/>
+	</node>
+	<node id="1050026396" lat="43.775351" lon="11.2696809" changeset="6710449" uid="192299" timestamp="2010-12-19T20:51:10Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="266938010" lat="43.7747284" lon="11.2691552" changeset="527179" uid="17383" timestamp="2008-05-26T10:03:00Z" visible="true" version="1" user="grampasso"/>
+	<node id="82591707" lat="43.7777961" lon="11.2626578" changeset="527179" uid="17383" timestamp="2008-05-26T10:03:00Z" visible="true" version="4" user="grampasso"/>
+	<node id="939929809" lat="43.7752826" lon="11.2681805" changeset="5974989" uid="17382" timestamp="2010-10-07T04:38:44Z" visible="true" version="4" user="FyaSKo">
+		<tag k="website" v="www.regency-hotel.com"/>
+		<tag k="name" v="Regency"/>
+		<tag k="phone" v="+39055245247"/>
+		<tag k="stars" v="5"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="email" v="firenze@fourseasons.com"/>
+	</node>
+	<node id="267396306" lat="43.7727899" lon="11.2687494" changeset="551100" uid="17383" timestamp="2008-05-30T08:59:40Z" visible="true" version="2" user="grampasso"/>
+	<node id="82591700" lat="43.7743323" lon="11.2699985" changeset="676144" uid="49848" timestamp="2008-12-30T19:05:53Z" visible="true" version="4" user="Simone Piccardi">
+		<tag k="created_by" v="Merkaartor 0.12"/>
+	</node>
+	<node id="302963542" lat="43.7754543" lon="11.2697681" changeset="5526187" uid="181166" timestamp="2010-08-18T12:23:32Z" visible="true" version="3" user="LWK"/>
+	<node id="300435931" lat="43.7752982" lon="11.2676838" changeset="707474" uid="49848" timestamp="2008-09-27T21:50:10Z" visible="true" version="1" user="Simone Piccardi">
+		<tag k="created_by" v="Merkaartor 0.11"/>
+	</node>
+	<node id="267396578" lat="43.7765961" lon="11.2686077" changeset="6710449" uid="192299" timestamp="2010-12-19T20:51:19Z" visible="true" version="8" user="a_l_e_c_h">
+		<tag k="source" v="survey"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="266938723" lat="43.7763241" lon="11.2615376" changeset="5531271" uid="181166" timestamp="2010-08-18T22:17:05Z" visible="true" version="2" user="LWK"/>
+	<node id="266938724" lat="43.7732348" lon="11.2678077" changeset="527179" uid="17383" timestamp="2008-05-26T10:10:31Z" visible="true" version="1" user="grampasso"/>
+	<node id="266937071" lat="43.7753977" lon="11.2633788" changeset="6321945" uid="368490" timestamp="2010-11-08T16:29:13Z" visible="true" version="2" user="Claudio Sacchettini"/>
+	<node id="266938738" lat="43.775425" lon="11.2676242" changeset="121845" uid="17383" timestamp="2008-06-10T15:53:30Z" visible="true" version="2" user="grampasso"/>
+	<node id="867230075" lat="43.7716004" lon="11.2663528" changeset="5530428" uid="181166" timestamp="2010-08-18T20:37:19Z" visible="true" version="2" user="LWK"/>
+	<way id="73108616" changeset="5531271" uid="181166" timestamp="2010-08-18T22:17:01Z" visible="true" version="1" user="LWK">
+		<nd ref="266938723"/>
+		<nd ref="266937071"/>
+		<nd ref="253248006"/>
+		<nd ref="249264782"/>
+		<nd ref="266938724"/>
+		<tag k="name" v="Via della Colonna"/>
+		<tag k="highway" v="unclassified"/>
+	</way>
+	<way id="27590930" changeset="158574" uid="49848" timestamp="2008-10-08T00:14:14Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="267396306"/>
+		<nd ref="266938724"/>
+		<tag k="created_by" v="Potlatch 0.9c"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="name" v="Via G. B. Niccolini"/>
+	</way>
+	<way id="24597928" changeset="6442099" uid="24126" timestamp="2010-11-23T20:06:40Z" visible="true" version="6" user="dforsi">
+		<nd ref="867230075"/>
+		<nd ref="266938724"/>
+		<tag k="name" v="Via Giosuè Carducci"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24597933" changeset="6710449" uid="192299" timestamp="2010-12-19T20:51:21Z" visible="true" version="5" user="a_l_e_c_h">
+		<nd ref="266938738"/>
+		<nd ref="1050026629"/>
+		<nd ref="267396578"/>
+		<tag k="name" v="Via Vittorio Alfieri"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="24597934" changeset="23519" uid="17383" timestamp="2008-06-02T21:03:17Z" visible="true" version="2" user="grampasso">
+		<nd ref="266938738"/>
+		<nd ref="249264782"/>
+		<tag k="name" v="Piazza D&apos;Azeglio"/>
+		<tag k="created_by" v="Potlatch 0.9c"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24597935" changeset="23519" uid="17383" timestamp="2008-06-02T21:03:19Z" visible="true" version="2" user="grampasso">
+		<nd ref="266938010"/>
+		<nd ref="266938738"/>
+		<tag k="name" v="Piazza D&apos;Azeglio"/>
+		<tag k="created_by" v="Potlatch 0.9c"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24550898" changeset="6460367" uid="375692" timestamp="2010-11-26T09:19:05Z" visible="true" version="8" user="Robiglio">
+		<nd ref="266938738"/>
+		<nd ref="269532440"/>
+		<nd ref="82591707"/>
+		<tag k="name" v="Via Giuseppe Giusti"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24550899" changeset="23519" uid="17383" timestamp="2008-06-02T21:04:28Z" visible="true" version="7" user="grampasso">
+		<nd ref="266938724"/>
+		<nd ref="266938010"/>
+		<tag k="name" v="Piazza D&apos;Azeglio"/>
+		<tag k="created_by" v="Potlatch 0.9c"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24550900" changeset="158574" uid="49848" timestamp="2008-10-08T00:14:12Z" visible="true" version="3" user="Simone Piccardi">
+		<nd ref="82591700"/>
+		<nd ref="266938010"/>
+		<tag k="name" v="Via P. Giordani"/>
+		<tag k="created_by" v="Potlatch 0.9a"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="23091573" changeset="676144" uid="49848" timestamp="2008-12-30T19:17:29Z" visible="true" version="4" user="Simone Piccardi">
+		<nd ref="249264780"/>
+		<nd ref="249264782"/>
+		<tag k="name" v="Via Farini"/>
+		<tag k="created_by" v="Merkaartor 0.12"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="27590908" changeset="6710449" uid="192299" timestamp="2010-12-19T20:51:21Z" visible="true" version="3" user="a_l_e_c_h">
+		<nd ref="266938010"/>
+		<nd ref="1050026396"/>
+		<nd ref="302963542"/>
+		<tag k="name" v="Via Silvio Pellico"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="49131710" changeset="3749978" uid="47888" timestamp="2010-01-30T11:20:30Z" visible="true" version="1" user="Gwilbor">
+		<nd ref="300435931"/>
+		<nd ref="299853208"/>
+		<nd ref="299853210"/>
+		<nd ref="299853211"/>
+		<nd ref="300435931"/>
+		<tag k="name" v="Piazza D&apos;Azeglio"/>
+		<tag k="leisure" v="park"/>
+	</way>
+</osm>

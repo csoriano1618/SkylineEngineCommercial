@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<densityDescriptor>
+    <divisions>
+        9
+    </divisions>
+
+    <cell>
+        <id>3</id>
+        <density>0.005</density>
+    </cell>
+
+    <cell>
+        <id>5</id>
+        <density>0.001</density>
+    </cell>
+
+    <cell>
+        <id>6</id>
+        <density>0.01</density>
+    </cell>
+     <cell>
+        <id>2</id>
+        <density>0.02</density>
+    </cell>
+</densityDescriptor>

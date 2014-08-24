@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="sE">
+	<bounds minlat="43.76397" minlon="11.24539" maxlat="43.77136" maxlon="11.25428"/>
+	<node id="256635907" lat="43.7670797" lon="11.2521779" changeset="761857" uid="49848" timestamp="2009-01-09T21:28:40Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="256635908" lat="43.7666584" lon="11.2512506" changeset="172129" uid="33355" timestamp="2008-06-14T21:19:57Z" visible="true" version="3" user="hinste"/>
+	<node id="989008389" lat="43.7730814" lon="11.2422014" changeset="6689556" uid="192299" timestamp="2010-12-17T19:14:27Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="256635910" lat="43.7661328" lon="11.2503969" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="256635912" lat="43.7654381" lon="11.2489002" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:03Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="1043523500" lat="43.7724613" lon="11.2438136" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="256635914" lat="43.7651324" lon="11.2483048" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="4" user="Simone Piccardi"/>
+	<node id="269302288" lat="43.7703003" lon="11.241025" changeset="106178" uid="17383" timestamp="2008-06-09T08:10:01Z" visible="true" version="1" user="grampasso"/>
+	<node id="269302297" lat="43.7683335" lon="11.246185" changeset="106178" uid="17383" timestamp="2008-06-09T08:10:14Z" visible="true" version="1" user="grampasso"/>
+	<node id="270378415" lat="43.7722928" lon="11.2442945" changeset="472789" uid="99686" timestamp="2009-02-15T16:37:39Z" visible="true" version="2" user="grace83"/>
+	<node id="305003549" lat="43.7646904" lon="11.2510099" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="305003550" lat="43.7645788" lon="11.2509842" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="305003551" lat="43.7644982" lon="11.2509327" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="588454432" lat="43.7731114" lon="11.2421124" changeset="6689556" uid="192299" timestamp="2010-12-17T19:14:28Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="588454433" lat="43.7726088" lon="11.2434307" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="588454434" lat="43.7708597" lon="11.2475255" changeset="6704426" uid="192299" timestamp="2010-12-19T11:01:17Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="588454435" lat="43.7695717" lon="11.2504231" changeset="6704426" uid="192299" timestamp="2010-12-19T11:05:58Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="305003556" lat="43.763959" lon="11.2487869" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="271773221" lat="43.768418" lon="11.2534422" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:14Z" visible="true" version="2" user="ilrobi"/>
+	<node id="271773222" lat="43.7675364" lon="11.2527929" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:17Z" visible="true" version="2" user="ilrobi"/>
+	<node id="190021468" lat="43.765125" lon="11.2450875" changeset="106178" uid="17383" timestamp="2008-06-09T08:19:27Z" visible="true" version="2" user="grampasso"/>
+	<node id="303645611" lat="43.7687372" lon="11.253279" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:18Z" visible="true" version="2" user="ilrobi"/>
+	<node id="252191791" lat="43.7684539" lon="11.2534569" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:21Z" visible="true" version="3" user="ilrobi"/>
+	<node id="252191792" lat="43.767444" lon="11.2528091" changeset="328025" uid="4987" timestamp="2008-03-15T10:05:12Z" visible="true" version="1" user="marcusb"/>
+	<node id="302959368" lat="43.7691017" lon="11.2531111" changeset="158574" uid="49848" timestamp="2008-10-07T23:24:32Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="256635913" lat="43.7653657" lon="11.2487661" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="305003700" lat="43.7643869" lon="11.2507179" changeset="370648" uid="52015" timestamp="2008-10-16T17:29:57Z" visible="true" version="3" user="rockcreek"/>
+	<node id="256635909" lat="43.7664567" lon="11.250937" changeset="103441" uid="4987" timestamp="2008-04-10T00:31:19Z" visible="true" version="1" user="marcusb"/>
+	<node id="303649342" lat="43.7695143" lon="11.2517649" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:19Z" visible="true" version="2" user="ilrobi"/>
+	<node id="270383177" lat="43.7692067" lon="11.2527839" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:20Z" visible="true" version="2" user="ilrobi"/>
+	<node id="253305935" lat="43.7688709" lon="11.2538097" changeset="158574" uid="49848" timestamp="2008-10-07T23:24:10Z" visible="true" version="4" user="Simone Piccardi"/>
+	<node id="989011541" lat="43.7719685" lon="11.2449878" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:54Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="989011543" lat="43.7718085" lon="11.2453835" changeset="6704426" uid="192299" timestamp="2010-12-19T11:02:49Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="305003553" lat="43.7643185" lon="11.2500744" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="267242905" lat="43.7694893" lon="11.250645" changeset="6704426" uid="192299" timestamp="2010-12-19T11:05:58Z" visible="true" version="10" user="a_l_e_c_h"/>
+	<node id="269303396" lat="43.7672956" lon="11.2526048" changeset="106178" uid="17383" timestamp="2008-06-09T08:20:30Z" visible="true" version="1" user="grampasso"/>
+	<node id="262728150" lat="43.7688664" lon="11.2522209" changeset="262811" uid="49848" timestamp="2008-10-10T23:23:44Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="269302460" lat="43.7650904" lon="11.2470443" changeset="172129" uid="33355" timestamp="2008-06-14T21:48:37Z" visible="true" version="2" user="hinste"/>
+	<node id="270361712" lat="43.7663595" lon="11.250768" changeset="172129" uid="33355" timestamp="2008-06-14T21:12:06Z" visible="true" version="1" user="hinste"/>
+	<node id="269301608" lat="43.7676588" lon="11.2457959" changeset="228776" uid="17383" timestamp="2008-06-20T14:28:26Z" visible="true" version="4" user="grampasso">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="253305833" lat="43.7705752" lon="11.2535753" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:51Z" visible="true" version="2" user="ilrobi"/>
+	<node id="660479094" lat="43.7691771" lon="11.2513357" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:17Z" visible="true" version="2" user="ilrobi"/>
+	<node id="270361721" lat="43.7672098" lon="11.2492901" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:46Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="255508602" lat="43.7611826" lon="11.24232" changeset="5959550" uid="347099" timestamp="2010-10-05T08:53:32Z" visible="true" version="6" user="taldeitali"/>
+	<node id="255508603" lat="43.7612548" lon="11.2421334" changeset="5959550" uid="347099" timestamp="2010-10-05T08:53:32Z" visible="true" version="5" user="taldeitali"/>
+	<node id="660479101" lat="43.7690252" lon="11.2517692" changeset="4036719" uid="44374" timestamp="2010-03-04T21:40:50Z" visible="true" version="1" user="harfner"/>
+	<node id="270361727" lat="43.7669908" lon="11.2491652" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:45Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="256582274" lat="43.7690618" lon="11.2465721" changeset="761857" uid="49848" timestamp="2009-01-09T20:59:48Z" visible="true" version="8" user="Simone Piccardi"/>
+	<node id="262730964" lat="43.7658551" lon="11.2505489" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="256582278" lat="43.7635308" lon="11.2434158" changeset="106235" uid="29415" timestamp="2008-04-10T17:13:31Z" visible="true" version="2" user="GiulioFi"/>
+	<node id="262899335" lat="43.7693061" lon="11.2454681" changeset="761857" uid="49848" timestamp="2009-01-09T20:59:52Z" visible="true" version="3" user="Simone Piccardi"/>
+	<node id="262899336" lat="43.7694541" lon="11.2447919" changeset="243136" uid="17383" timestamp="2008-06-21T06:05:18Z" visible="true" version="3" user="grampasso"/>
+	<node id="330659659" lat="43.765076" lon="11.24897" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:05Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="253305834" lat="43.7702113" lon="11.2535724" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:55Z" visible="true" version="4" user="ilrobi"/>
+	<node id="262899346" lat="43.7685727" lon="11.2499935" changeset="761857" uid="49848" timestamp="2009-01-09T20:59:59Z" visible="true" version="4" user="Simone Piccardi"/>
+	<node id="262899347" lat="43.7696743" lon="11.2468766" changeset="6704426" uid="192299" timestamp="2010-12-19T11:02:49Z" visible="true" version="4" user="a_l_e_c_h">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="267242948" lat="43.7709966" lon="11.2480607" changeset="6931744" uid="192299" timestamp="2011-01-10T21:59:37Z" visible="true" version="5" user="a_l_e_c_h"/>
+	<node id="269301915" lat="43.7697047" lon="11.2437653" changeset="106178" uid="17383" timestamp="2008-06-09T08:03:19Z" visible="true" version="1" user="grampasso"/>
+	<node id="270375070" lat="43.7700503" lon="11.2494145" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:18Z" visible="true" version="5" user="ilrobi"/>
+	<node id="311421608" lat="43.772589" lon="11.2435626" changeset="472789" uid="99686" timestamp="2009-02-15T16:37:39Z" visible="true" version="2" user="grace83"/>
+	<node id="302957737" lat="43.7708756" lon="11.2535734" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:50Z" visible="true" version="2" user="ilrobi"/>
+	<node id="271778986" lat="43.771029" lon="11.2535802" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:55Z" visible="true" version="4" user="ilrobi"/>
+	<node id="305003691" lat="43.7636474" lon="11.2480341" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:29Z" visible="true" version="4" user="rockcreek"/>
+	<node id="1048372910" lat="43.7707657" lon="11.2477867" changeset="6704426" uid="192299" timestamp="2010-12-19T11:09:25Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="1107524274" lat="43.7699228" lon="11.2535899" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:48Z" visible="true" version="1" user="ilrobi"/>
+	<node id="626813107" lat="43.7695406" lon="11.2505668" changeset="6704426" uid="192299" timestamp="2010-12-19T11:05:58Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="588454068" lat="43.7739061" lon="11.2397855" changeset="6689556" uid="192299" timestamp="2010-12-17T19:14:28Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="269302459" lat="43.7660997" lon="11.244897" changeset="106178" uid="17383" timestamp="2008-06-09T08:12:30Z" visible="true" version="1" user="grampasso"/>
+	<node id="252191420" lat="43.7718181" lon="11.2536233" changeset="2816520" uid="181166" timestamp="2009-10-11T17:09:02Z" visible="true" version="4" user="LWK"/>
+	<node id="252191422" lat="43.771155" lon="11.2535975" changeset="2816520" uid="181166" timestamp="2009-10-11T17:09:03Z" visible="true" version="4" user="LWK"/>
+	<node id="305003552" lat="43.7642937" lon="11.2505379" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="252191426" lat="43.7711414" lon="11.2543743" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:20Z" visible="true" version="5" user="ilrobi"/>
+	<node id="252191431" lat="43.7718209" lon="11.2543765" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:14Z" visible="true" version="5" user="ilrobi"/>
+	<node id="305003554" lat="43.7643619" lon="11.2497825" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="262730958" lat="43.7651919" lon="11.2489096" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="262730957" lat="43.7652921" lon="11.2487774" changeset="830079" uid="49848" timestamp="2009-01-24T00:42:49Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="262730960" lat="43.7651299" lon="11.2494503" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="262730961" lat="43.7655638" lon="11.2503773" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="302959314" lat="43.7702045" lon="11.2540634" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:54Z" visible="true" version="2" user="ilrobi"/>
+	<node id="305003555" lat="43.7641635" lon="11.2491732" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:28Z" visible="true" version="4" user="rockcreek"/>
+	<node id="1043521748" lat="43.7734936" lon="11.2410455" changeset="6689556" uid="192299" timestamp="2010-12-17T19:14:27Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="262730965" lat="43.7660556" lon="11.2503726" changeset="830079" uid="49848" timestamp="2009-01-24T00:42:50Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="1097150679" lat="43.769501" lon="11.2505521" changeset="6931833" uid="192299" timestamp="2011-01-10T22:04:04Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="270349860" lat="43.7673388" lon="11.2526728" changeset="172129" uid="33355" timestamp="2008-06-14T20:07:45Z" visible="true" version="1" user="hinste"/>
+	<node id="262730959" lat="43.7651175" lon="11.2491327" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="303648476" lat="43.7691337" lon="11.2519741" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:37Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="256582266" lat="43.7681458" lon="11.2497938" changeset="6996882" uid="347099" timestamp="2011-01-17T08:24:40Z" visible="true" version="9" user="taldeitali">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="303648478" lat="43.7692887" lon="11.251899" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:37Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="305003557" lat="43.7624527" lon="11.2451477" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:29Z" visible="true" version="5" user="rockcreek"/>
+	<node id="303648480" lat="43.7694029" lon="11.2520707" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:37Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="330659662" lat="43.7656474" lon="11.2506651" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:05Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="305003558" lat="43.7620807" lon="11.2443151" changeset="370648" uid="52015" timestamp="2008-10-16T17:28:29Z" visible="true" version="4" user="rockcreek"/>
+	<node id="267483282" lat="43.7722384" lon="11.2494313" changeset="6704426" uid="192299" timestamp="2010-12-19T10:59:45Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="305003989" lat="43.7658371" lon="11.2522459" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="303650027" lat="43.7690795" lon="11.2516147" changeset="262811" uid="49848" timestamp="2008-10-10T23:23:44Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="256582279" lat="43.7625762" lon="11.2429009" changeset="106235" uid="29415" timestamp="2008-04-10T17:13:31Z" visible="true" version="2" user="GiulioFi"/>
+	<node id="262730963" lat="43.765694" lon="11.2505146" changeset="361839" uid="11530" timestamp="2008-05-08T01:55:35Z" visible="true" version="1" user="Radi"/>
+	<node id="305003988" lat="43.765707" lon="11.2523489" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="271608062" lat="43.7645822" lon="11.2470836" changeset="243136" uid="17383" timestamp="2008-06-21T06:39:33Z" visible="true" version="1" user="grampasso"/>
+	<node id="270361343" lat="43.7657196" lon="11.2484297" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:43Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="270361345" lat="43.7665236" lon="11.2488814" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:45Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="270361346" lat="43.7658458" lon="11.2497532" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="305003990" lat="43.7658619" lon="11.2520313" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="303651807" lat="43.7696536" lon="11.2535644" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:51Z" visible="true" version="3" user="ilrobi"/>
+	<node id="252557063" lat="43.7613268" lon="11.2424409" changeset="548468" uid="864" timestamp="2008-09-06T11:32:21Z" visible="true" version="3" user="Niccolo"/>
+	<node id="252557064" lat="43.7619637" lon="11.2429846" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="2" user="grampasso"/>
+	<node id="252557065" lat="43.7624224" lon="11.2433795" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="2" user="grampasso"/>
+	<node id="252557066" lat="43.7628377" lon="11.2438687" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="2" user="grampasso"/>
+	<node id="252557067" lat="43.7629679" lon="11.244109" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="2" user="grampasso"/>
+	<node id="252557068" lat="43.7631973" lon="11.244521" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="2" user="grampasso"/>
+	<node id="252557069" lat="43.7648674" lon="11.2477617" changeset="243136" uid="17383" timestamp="2008-06-21T06:39:33Z" visible="true" version="8" user="grampasso"/>
+	<node id="961794321" lat="43.7618325" lon="11.2424689" changeset="6147988" uid="319505" timestamp="2010-10-23T16:25:26Z" visible="true" version="1" user="Carlo Bottai"/>
+	<node id="302959366" lat="43.7694691" lon="11.253359" changeset="158574" uid="49848" timestamp="2008-10-07T23:24:28Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="305003285" lat="43.764771" lon="11.2509842" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="4" user="rockcreek"/>
+	<node id="302959315" lat="43.7699814" lon="11.254036" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:20Z" visible="true" version="3" user="ilrobi"/>
+	<node id="305003994" lat="43.766116" lon="11.2518253" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="271766663" lat="43.7693052" lon="11.2480274" changeset="761857" uid="49848" timestamp="2009-01-09T21:00:02Z" visible="true" version="3" user="Simone Piccardi"/>
+	<node id="303648477" lat="43.7691841" lon="11.251832" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:37Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="269303176" lat="43.7654016" lon="11.2444945" changeset="106178" uid="17383" timestamp="2008-06-09T08:18:07Z" visible="true" version="1" user="grampasso"/>
+	<node id="302959316" lat="43.7698151" lon="11.2540122" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:51Z" visible="true" version="3" user="ilrobi"/>
+	<node id="269303094" lat="43.7667056" lon="11.2483319" changeset="106178" uid="17383" timestamp="2008-06-09T08:16:03Z" visible="true" version="1" user="grampasso"/>
+	<node id="270369079" lat="43.7653573" lon="11.2472739" changeset="172129" uid="33355" timestamp="2008-06-14T21:48:36Z" visible="true" version="1" user="hinste"/>
+	<node id="303648479" lat="43.7692712" lon="11.2519687" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:37Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="16778047" lat="43.7731274" lon="11.2422215" changeset="472789" uid="99686" timestamp="2009-02-15T17:24:41Z" visible="true" version="7" user="grace83"/>
+	<node id="270933319" lat="43.7711277" lon="11.2535779" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:55Z" visible="true" version="2" user="ilrobi"/>
+	<node id="330659656" lat="43.7661033" lon="11.250472" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="271608649" lat="43.7674111" lon="11.2493968" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:48Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="269303095" lat="43.7644856" lon="11.2464656" changeset="106178" uid="17383" timestamp="2008-06-09T08:16:03Z" visible="true" version="1" user="grampasso"/>
+	<node id="269303116" lat="43.7654411" lon="11.2463007" changeset="106178" uid="17383" timestamp="2008-06-09T08:16:43Z" visible="true" version="1" user="grampasso"/>
+	<node id="269303117" lat="43.7648895" lon="11.2455681" changeset="106178" uid="17383" timestamp="2008-06-09T08:19:27Z" visible="true" version="2" user="grampasso"/>
+	<node id="269303495" lat="43.7664834" lon="11.2488642" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:44Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="269303119" lat="43.7651349" lon="11.2443407" changeset="106178" uid="17383" timestamp="2008-06-09T08:16:49Z" visible="true" version="1" user="grampasso"/>
+	<node id="330659664" lat="43.7658485" lon="11.2506758" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:05Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="270362450" lat="43.7651377" lon="11.2490134" changeset="172129" uid="33355" timestamp="2008-06-14T21:19:48Z" visible="true" version="1" user="hinste"/>
+	<node id="269303131" lat="43.7641241" lon="11.2462686" changeset="106178" uid="17383" timestamp="2008-06-09T08:17:04Z" visible="true" version="1" user="grampasso"/>
+	<node id="270362460" lat="43.7672791" lon="11.249321" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:47Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="269303646" lat="43.768797" lon="11.2493826" changeset="761857" uid="49848" timestamp="2009-01-09T21:00:00Z" visible="true" version="3" user="Simone Piccardi"/>
+	<node id="302959488" lat="43.7685383" lon="11.2531851" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:14Z" visible="true" version="2" user="ilrobi"/>
+	<node id="269301605" lat="43.7671508" lon="11.245503" changeset="106178" uid="17383" timestamp="2008-06-09T07:58:10Z" visible="true" version="1" user="grampasso"/>
+	<node id="335820648" lat="43.7606584" lon="11.2425112" changeset="830079" uid="49848" timestamp="2009-01-24T00:41:18Z" visible="true" version="1" user="Simone Piccardi">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="268628845" lat="43.7718114" lon="11.2489266" changeset="6704426" uid="192299" timestamp="2010-12-19T10:59:44Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="268628846" lat="43.7725232" lon="11.2498073" changeset="6704426" uid="192299" timestamp="2010-12-19T10:59:44Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="268628847" lat="43.7730063" lon="11.2504412" changeset="6999059" uid="22110" timestamp="2011-01-17T12:48:47Z" visible="true" version="2" user="ilrobi"/>
+	<node id="270934390" lat="43.7710323" lon="11.2479997" changeset="6931744" uid="192299" timestamp="2011-01-10T21:55:14Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="269302135" lat="43.7704427" lon="11.2404264" changeset="738041" uid="49848" timestamp="2008-11-11T23:59:53Z" visible="true" version="6" user="Simone Piccardi"/>
+	<node id="861459321" lat="43.7725638" lon="11.2435317" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="253306235" lat="43.7698005" lon="11.2513574" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:15Z" visible="true" version="4" user="ilrobi"/>
+	<node id="302959484" lat="43.7690108" lon="11.2534277" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:22Z" visible="true" version="2" user="ilrobi"/>
+	<node id="269301738" lat="43.7698357" lon="11.2432421" changeset="106178" uid="17383" timestamp="2008-06-09T08:01:31Z" visible="true" version="1" user="grampasso"/>
+	<node id="271196032" lat="43.7708163" lon="11.2477528" changeset="6704426" uid="192299" timestamp="2010-12-19T11:02:49Z" visible="true" version="5" user="a_l_e_c_h">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="269301636" lat="43.7678709" lon="11.2453278" changeset="106178" uid="17383" timestamp="2008-06-09T07:59:13Z" visible="true" version="1" user="grampasso"/>
+	<node id="861459335" lat="43.7725275" lon="11.2436158" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:01Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="861459336" lat="43.7707901" lon="11.2477322" changeset="6704426" uid="192299" timestamp="2010-12-19T11:02:49Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="1097150669" lat="43.7695316" lon="11.2505805" changeset="6931833" uid="192299" timestamp="2011-01-10T22:04:03Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="270365078" lat="43.7684737" lon="11.2457051" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:20Z" visible="true" version="1" user="hinste"/>
+	<node id="270365081" lat="43.7676992" lon="11.2452101" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:21Z" visible="true" version="1" user="hinste"/>
+	<node id="8436633" lat="43.7643626" lon="11.2467183" changeset="106178" uid="17383" timestamp="2008-06-09T07:47:43Z" visible="true" version="4" user="grampasso"/>
+	<node id="270365082" lat="43.7674407" lon="11.2450201" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:21Z" visible="true" version="1" user="hinste"/>
+	<node id="270365083" lat="43.7672876" lon="11.2449214" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:21Z" visible="true" version="1" user="hinste"/>
+	<node id="270365084" lat="43.7671399" lon="11.2447972" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:22Z" visible="true" version="1" user="hinste"/>
+	<node id="270365085" lat="43.7667681" lon="11.244512" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:22Z" visible="true" version="1" user="hinste"/>
+	<node id="270365086" lat="43.7664947" lon="11.2451202" changeset="172129" uid="33355" timestamp="2008-06-14T21:29:23Z" visible="true" version="1" user="hinste"/>
+	<node id="252596379" lat="43.7652369" lon="11.2481687" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:41Z" visible="true" version="5" user="Simone Piccardi"/>
+	<node id="270378404" lat="43.7711891" lon="11.2468853" changeset="6704426" uid="192299" timestamp="2010-12-19T11:01:17Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="270378408" lat="43.7714322" lon="11.2463408" changeset="6704426" uid="192299" timestamp="2010-12-19T11:01:52Z" visible="true" version="3" user="a_l_e_c_h"/>
+	<node id="1043523497" lat="43.772258" lon="11.2443241" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="270378410" lat="43.7718393" lon="11.2454224" changeset="6704426" uid="192299" timestamp="2010-12-19T11:01:52Z" visible="true" version="8" user="a_l_e_c_h"/>
+	<node id="1043523499" lat="43.7724926" lon="11.2436989" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="270378412" lat="43.7720138" lon="11.2450314" changeset="6853636" uid="103253" timestamp="2011-01-03T19:40:16Z" visible="true" version="11" user="gormur"/>
+	<node id="269301677" lat="43.7701208" lon="11.2418603" changeset="106178" uid="17383" timestamp="2008-06-09T08:00:32Z" visible="true" version="1" user="grampasso"/>
+	<node id="1043523503" lat="43.772746" lon="11.2431069" changeset="6689556" uid="192299" timestamp="2010-12-17T19:19:00Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="270378419" lat="43.7725619" lon="11.2436431" changeset="790808" uid="102513" timestamp="2009-03-11T15:23:13Z" visible="true" version="5" user="leo72"/>
+	<node id="270360990" lat="43.7671494" lon="11.2523442" changeset="761857" uid="49848" timestamp="2009-01-09T21:28:41Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="330659657" lat="43.7652611" lon="11.2487125" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:04Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="253306307" lat="43.769661" lon="11.2514817" changeset="368500" uid="4987" timestamp="2008-03-22T09:59:01Z" visible="true" version="1" user="marcusb"/>
+	<node id="253306308" lat="43.7695399" lon="11.2516639" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:16Z" visible="true" version="2" user="ilrobi"/>
+	<node id="253306309" lat="43.7694436" lon="11.2518776" changeset="262811" uid="49848" timestamp="2008-10-10T23:14:24Z" visible="true" version="3" user="Simone Piccardi"/>
+	<node id="253306310" lat="43.7693759" lon="11.2521598" changeset="368500" uid="4987" timestamp="2008-03-22T09:59:01Z" visible="true" version="1" user="marcusb"/>
+	<node id="253306311" lat="43.7692519" lon="11.2525975" changeset="368500" uid="4987" timestamp="2008-03-22T09:59:01Z" visible="true" version="1" user="marcusb"/>
+	<node id="253306312" lat="43.7690226" lon="11.2533786" changeset="368500" uid="4987" timestamp="2008-03-22T09:59:01Z" visible="true" version="1" user="marcusb"/>
+	<node id="989012430" lat="43.7694654" lon="11.2506171" changeset="6704426" uid="192299" timestamp="2010-12-19T11:05:58Z" visible="true" version="2" user="a_l_e_c_h"/>
+	<node id="330659661" lat="43.7650197" lon="11.249324" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:05Z" visible="true" version="1" user="Simone Piccardi"/>
+	<node id="305003985" lat="43.7650933" lon="11.2513361" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="305003986" lat="43.7653598" lon="11.2519197" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="305003987" lat="43.7655272" lon="11.2522888" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="269301716" lat="43.7701766" lon="11.2415942" changeset="106178" uid="17383" timestamp="2008-06-09T08:00:57Z" visible="true" version="1" user="grampasso"/>
+	<node id="190021480" lat="43.7655887" lon="11.2474664" changeset="172129" uid="33355" timestamp="2008-06-14T21:48:38Z" visible="true" version="4" user="hinste"/>
+	<node id="104221654" lat="43.7673565" lon="11.2417916" changeset="106178" uid="17383" timestamp="2008-06-09T08:11:42Z" visible="true" version="4" user="grampasso"/>
+	<node id="305003991" lat="43.7657751" lon="11.2513189" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="305003992" lat="43.7657317" lon="11.2512073" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek"/>
+	<node id="305003993" lat="43.7658247" lon="11.2511387" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:59Z" visible="true" version="2" user="rockcreek"/>
+	<node id="1048372929" lat="43.769656" lon="11.2469336" changeset="6704426" uid="192299" timestamp="2010-12-19T11:09:25Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="303651804" lat="43.7696955" lon="11.2534899" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:55Z" visible="true" version="3" user="ilrobi"/>
+	<node id="303651806" lat="43.7697457" lon="11.2535938" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:53Z" visible="true" version="3" user="ilrobi"/>
+	<node id="305003999" lat="43.7656958" lon="11.2506676" changeset="830079" uid="49848" timestamp="2009-01-24T00:30:52Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="269301737" lat="43.7699349" lon="11.2427529" changeset="106178" uid="17383" timestamp="2008-06-09T08:01:31Z" visible="true" version="1" user="grampasso"/>
+	<node id="1048358378" lat="43.7700085" lon="11.2493859" changeset="7001991" uid="22110" timestamp="2011-01-17T17:51:22Z" visible="true" version="2" user="ilrobi"/>
+	<node id="253305835" lat="43.7699833" lon="11.2535931" changeset="368500" uid="4987" timestamp="2008-03-22T09:52:17Z" visible="true" version="1" user="marcusb"/>
+	<node id="253305836" lat="43.7698246" lon="11.2535559" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:53Z" visible="true" version="4" user="ilrobi"/>
+	<node id="262796456" lat="43.7662133" lon="11.2505525" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:03Z" visible="true" version="2" user="Simone Piccardi"/>
+	<node id="1097140257" lat="43.7707762" lon="11.2478434" changeset="6931744" uid="192299" timestamp="2011-01-10T21:59:37Z" visible="true" version="1" user="a_l_e_c_h"/>
+	<node id="269301674" lat="43.7693797" lon="11.245058" changeset="243136" uid="17383" timestamp="2008-06-21T06:05:39Z" visible="true" version="5" user="grampasso"/>
+	<way id="23324674" changeset="6254689" uid="319505" timestamp="2010-11-01T13:24:12Z" visible="true" version="8" user="Carlo Bottai">
+		<nd ref="255508602"/>
+		<nd ref="252557063"/>
+		<nd ref="252557064"/>
+		<nd ref="252557065"/>
+		<nd ref="252557066"/>
+		<nd ref="252557067"/>
+		<nd ref="252557068"/>
+		<nd ref="269303131"/>
+		<nd ref="8436633"/>
+		<nd ref="271608062"/>
+		<nd ref="252557069"/>
+		<tag k="name" v="Via Romana"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="23701891" changeset="761857" uid="49848" timestamp="2009-01-09T21:28:45Z" visible="true" version="8" user="Simone Piccardi">
+		<nd ref="252191792"/>
+		<nd ref="270349860"/>
+		<tag k="name" v="Via de' Guicciardini"/>
+		<tag k="highway" v="living_street"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="23695620" changeset="6931833" uid="192299" timestamp="2011-01-10T22:04:04Z" visible="true" version="15" user="a_l_e_c_h">
+		<nd ref="267242905"/>
+		<nd ref="1097150669"/>
+		<nd ref="626813107"/>
+		<nd ref="270375070"/>
+		<nd ref="1097140257"/>
+		<nd ref="271196032"/>
+		<tag k="oneway" v="true"/>
+		<tag k="name" v="Lungarno Corsini"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="cycleway" v="lane"/>
+	</way>
+	<way id="23326870" changeset="243136" uid="17383" timestamp="2008-06-21T06:50:29Z" visible="true" version="9" user="grampasso">
+		<nd ref="252596379"/>
+		<nd ref="270361343"/>
+		<nd ref="269303495"/>
+		<nd ref="270361345"/>
+		<nd ref="270361727"/>
+		<nd ref="270361721"/>
+		<nd ref="270362460"/>
+		<nd ref="271608649"/>
+		<nd ref="256582266"/>
+		<tag k="name" v="Via Maggio"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="true"/>
+	</way>
+	<way id="23695622" changeset="761857" uid="49848" timestamp="2009-01-09T20:59:46Z" visible="true" version="8" user="Simone Piccardi">
+		<nd ref="262899347"/>
+		<nd ref="256582274"/>
+		<tag k="name" v="Piazza Nazario Sauro"/>
+		<tag k="highway" v="unclassified"/>
+	</way>
+	<way id="23695623" changeset="6254689" uid="319505" timestamp="2010-11-01T13:24:11Z" visible="true" version="14" user="Carlo Bottai">
+		<nd ref="256582274"/>
+		<nd ref="269302297"/>
+		<nd ref="269301608"/>
+		<nd ref="269301605"/>
+		<nd ref="270365086"/>
+		<nd ref="269302459"/>
+		<nd ref="269303176"/>
+		<nd ref="269303119"/>
+		<nd ref="256582278"/>
+		<nd ref="256582279"/>
+		<nd ref="961794321"/>
+		<nd ref="255508603"/>
+		<tag k="name" v="Via de' Serragli"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="23395983" changeset="4436920" uid="251688" timestamp="2010-04-16T08:57:37Z" visible="true" version="8" user="Molko">
+		<nd ref="253306235"/>
+		<nd ref="253306307"/>
+		<nd ref="253306308"/>
+		<nd ref="303649342"/>
+		<nd ref="253306309"/>
+		<nd ref="303648480"/>
+		<nd ref="253306310"/>
+		<nd ref="253306311"/>
+		<nd ref="270383177"/>
+		<nd ref="302959368"/>
+		<nd ref="253306312"/>
+		<nd ref="302959484"/>
+		<nd ref="253305935"/>
+		<tag k="name" v="Via dei Santi Apostoli"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="27647928" changeset="381230" uid="52015" timestamp="2008-10-16T19:03:47Z" visible="true" version="2" user="rockcreek">
+		<nd ref="253305836"/>
+		<nd ref="303651806"/>
+		<nd ref="303651807"/>
+		<nd ref="303651804"/>
+		<nd ref="253305836"/>
+		<tag k="name" v="Piazza di Parte Guelfa"/>
+		<tag k="highway" v="pedestrian"/>
+		<tag k="area" v="yes"/>
+	</way>
+	<way id="24280982" changeset="6704426" uid="192299" timestamp="2010-12-19T11:09:25Z" visible="true" version="7" user="a_l_e_c_h">
+		<nd ref="262899346"/>
+		<nd ref="269303646"/>
+		<nd ref="271766663"/>
+		<nd ref="1048372929"/>
+		<nd ref="262899347"/>
+		<tag k="name" v="Lungarno Guicciardini"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="24606617" changeset="761857" uid="49848" timestamp="2009-01-09T21:00:29Z" visible="true" version="8" user="Simone Piccardi">
+		<nd ref="270934390"/>
+		<nd ref="268628845"/>
+		<nd ref="267483282"/>
+		<nd ref="268628846"/>
+		<nd ref="268628847"/>
+		<tag k="name" v="Via del Moro"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24785306" changeset="248124" uid="17383" timestamp="2008-06-21T19:16:22Z" visible="true" version="3" user="grampasso">
+		<nd ref="269302460"/>
+		<nd ref="269303116"/>
+		<nd ref="269302459"/>
+		<nd ref="104221654"/>
+		<tag k="name" v="Via della Chiesa"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="94450203" changeset="6931744" uid="192299" timestamp="2011-01-10T21:59:38Z" visible="true" version="2" user="a_l_e_c_h">
+		<nd ref="270934390"/>
+		<nd ref="267242948"/>
+		<nd ref="1097140257"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="94450202" changeset="6931744" uid="192299" timestamp="2011-01-10T21:57:26Z" visible="true" version="1" user="a_l_e_c_h">
+		<nd ref="270934390"/>
+		<nd ref="271196032"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="27647557" changeset="262811" uid="49848" timestamp="2008-10-10T23:00:57Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="303645611"/>
+		<nd ref="302959488"/>
+		<tag k="name" v="Vicolo dell'Oro"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="24785445" changeset="243136" uid="17383" timestamp="2008-06-21T06:34:16Z" visible="true" version="3" user="grampasso">
+		<nd ref="269303094"/>
+		<nd ref="269303495"/>
+		<tag k="name" v="Via dei Michelozzi"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="27777649" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:42Z" visible="true" version="1" user="rockcreek">
+		<nd ref="305003285"/>
+		<nd ref="305003985"/>
+		<nd ref="305003986"/>
+		<nd ref="305003987"/>
+		<nd ref="305003988"/>
+		<nd ref="305003989"/>
+		<nd ref="305003990"/>
+		<nd ref="305003991"/>
+		<nd ref="305003992"/>
+		<nd ref="305003993"/>
+		<nd ref="305003994"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="27590441" changeset="262811" uid="49848" timestamp="2008-10-10T23:07:10Z" visible="true" version="2" user="Simone Piccardi">
+		<nd ref="302959314"/>
+		<nd ref="302959315"/>
+		<nd ref="302959316"/>
+		<tag k="name" v="Piazza del Mercato Nuovo"/>
+		<tag k="highway" v="living_street"/>
+	</way>
+	<way id="27777581" changeset="830079" uid="49848" timestamp="2009-01-24T00:41:24Z" visible="true" version="5" user="Simone Piccardi">
+		<nd ref="305003285"/>
+		<nd ref="305003549"/>
+		<nd ref="305003550"/>
+		<nd ref="305003551"/>
+		<nd ref="305003700"/>
+		<nd ref="305003552"/>
+		<nd ref="305003553"/>
+		<nd ref="305003554"/>
+		<nd ref="305003555"/>
+		<nd ref="305003556"/>
+		<nd ref="305003691"/>
+		<nd ref="305003557"/>
+		<nd ref="305003558"/>
+		<nd ref="335820648"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="27590448" changeset="158574" uid="49848" timestamp="2008-10-07T23:24:33Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="302959366"/>
+		<nd ref="302959368"/>
+		<tag k="name" v="Chiasso delle Misure"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="27590456" changeset="4036719" uid="44374" timestamp="2010-03-04T21:40:51Z" visible="true" version="2" user="harfner">
+		<nd ref="253305835"/>
+		<nd ref="302959315"/>
+		<tag k="name" v="Via Val di Lamona"/>
+		<tag k="highway" v="living_street"/>
+	</way>
+	<way id="27647929" changeset="262811" uid="49848" timestamp="2008-10-10T23:31:27Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="303651804"/>
+		<nd ref="302959366"/>
+		<tag k="name" v="Chiasso San Biagio"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="30030270" changeset="761857" uid="49848" timestamp="2009-01-09T21:28:44Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="270349860"/>
+		<nd ref="269303396"/>
+		<nd ref="270360990"/>
+		<nd ref="256635907"/>
+		<nd ref="256635908"/>
+		<nd ref="256635909"/>
+		<nd ref="270361712"/>
+		<nd ref="262796456"/>
+		<tag k="name" v="Via de' Guicciardini"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24985408" changeset="243136" uid="17383" timestamp="2008-06-21T06:40:27Z" visible="true" version="4" user="grampasso">
+		<nd ref="256635914"/>
+		<nd ref="252596379"/>
+		<tag k="name" v="Piazza San Felice"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="27647553" changeset="262811" uid="49848" timestamp="2008-10-10T23:00:50Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="253305836"/>
+		<nd ref="302959316"/>
+		<tag k="name" v="Vicolo della Seta"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="23298757" changeset="6797121" uid="373191" timestamp="2010-12-29T10:58:32Z" visible="true" version="12" user="studiovega">
+		<nd ref="252191420"/>
+		<nd ref="252191422"/>
+		<nd ref="252191426"/>
+		<nd ref="252191431"/>
+		<nd ref="252191420"/>
+		<tag k="is_in:city" v="Firenze"/>
+		<tag k="name" v="Piazza della Repubblica"/>
+		<tag k="highway" v="pedestrian"/>
+		<tag k="area" v="yes"/>
+	</way>
+	<way id="24932070" changeset="158574" uid="49848" timestamp="2008-10-07T23:09:06Z" visible="true" version="5" user="Simone Piccardi">
+		<nd ref="270933319"/>
+		<nd ref="271778986"/>
+		<nd ref="302957737"/>
+		<nd ref="253305833"/>
+		<nd ref="253305834"/>
+		<tag k="name" v="Via Pellicceria"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="90354259" changeset="6704623" uid="192299" timestamp="2010-12-19T11:17:13Z" visible="true" version="2" user="a_l_e_c_h">
+		<nd ref="1048358378"/>
+		<nd ref="270375070"/>
+		<tag k="access" v="yes"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="highway" v="cycleway"/>
+	</way>
+	<way id="27647700" changeset="262811" uid="49848" timestamp="2008-10-10T23:16:47Z" visible="true" version="2" user="Simone Piccardi">
+		<nd ref="253306310"/>
+		<nd ref="303648476"/>
+		<nd ref="303648477"/>
+		<nd ref="303648478"/>
+		<nd ref="303648479"/>
+		<nd ref="303648480"/>
+		<nd ref="253306310"/>
+		<tag k="name" v="Piazza del Limbo"/>
+		<tag k="highway" v="pedestrian"/>
+		<tag k="area" v="yes"/>
+	</way>
+	<way id="24785368" changeset="248124" uid="17383" timestamp="2008-06-21T19:12:02Z" visible="true" version="6" user="grampasso">
+		<nd ref="269303094"/>
+		<nd ref="190021480"/>
+		<nd ref="270369079"/>
+		<nd ref="269302460"/>
+		<nd ref="269303095"/>
+		<tag k="name" v="Borgo Tegolaio"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24266841" changeset="4036719" uid="44374" timestamp="2010-03-04T21:40:50Z" visible="true" version="10" user="harfner">
+		<nd ref="252191791"/>
+		<nd ref="302959488"/>
+		<nd ref="262728150"/>
+		<nd ref="660479101"/>
+		<nd ref="303650027"/>
+		<nd ref="660479094"/>
+		<nd ref="267242905"/>
+		<tag k="name" v="Lungarno degli Acciaioli"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="oneway" v="-1"/>
+	</way>
+	<way id="24881115" changeset="243136" uid="17383" timestamp="2008-06-21T06:09:14Z" visible="true" version="2" user="grampasso">
+		<nd ref="270365086"/>
+		<nd ref="270365085"/>
+		<nd ref="270365084"/>
+		<nd ref="270365083"/>
+		<nd ref="270365082"/>
+		<nd ref="270365081"/>
+		<nd ref="269301636"/>
+		<nd ref="270365078"/>
+		<tag k="name" v="Via dell'Ardiglione"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24271076" changeset="172129" uid="33355" timestamp="2008-06-14T21:19:59Z" visible="true" version="2" user="hinste">
+		<nd ref="256635913"/>
+		<nd ref="262730957"/>
+		<nd ref="262730958"/>
+		<nd ref="270362450"/>
+		<nd ref="262730959"/>
+		<nd ref="262730960"/>
+		<nd ref="262730961"/>
+		<nd ref="262730963"/>
+		<nd ref="262730964"/>
+		<nd ref="262730965"/>
+		<nd ref="256635910"/>
+		<tag k="highway" v="service"/>
+	</way>
+	<way id="30029669" changeset="761857" uid="49848" timestamp="2009-01-09T20:56:47Z" visible="true" version="1" user="Simone Piccardi">
+		<nd ref="269302135"/>
+		<nd ref="269302288"/>
+		<nd ref="269301716"/>
+		<nd ref="269301677"/>
+		<nd ref="269301737"/>
+		<nd ref="269301738"/>
+		<nd ref="269301915"/>
+		<nd ref="262899336"/>
+		<nd ref="269301674"/>
+		<nd ref="262899335"/>
+		<nd ref="256582274"/>
+		<tag k="name" v="Borgo San Frediano"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="24271078" changeset="761857" uid="49848" timestamp="2009-01-09T21:20:05Z" visible="true" version="4" user="Simone Piccardi">
+		<nd ref="262796456"/>
+		<nd ref="256635910"/>
+		<nd ref="270361346"/>
+		<nd ref="256635912"/>
+		<nd ref="256635913"/>
+		<nd ref="256635914"/>
+		<tag k="name" v="Piazza de' Pitti"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="23298792" changeset="248124" uid="17383" timestamp="2008-06-21T19:49:24Z" visible="true" version="4" user="grampasso">
+		<nd ref="252191791"/>
+		<nd ref="271773221"/>
+		<tag k="name" v="Ponte Vecchio"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="24999532" changeset="2051446" uid="49848" timestamp="2009-08-06T00:46:12Z" visible="true" version="4" user="Simone Piccardi">
+		<nd ref="271773221"/>
+		<nd ref="271773222"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Ponte Vecchio"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="30030064" changeset="830079" uid="49848" timestamp="2009-01-24T00:42:49Z" visible="true" version="3" user="Simone Piccardi">
+		<nd ref="330659656"/>
+		<nd ref="262730965"/>
+		<nd ref="262730957"/>
+		<nd ref="330659657"/>
+		<nd ref="330659659"/>
+		<nd ref="330659661"/>
+		<nd ref="330659662"/>
+		<nd ref="305003999"/>
+		<nd ref="330659664"/>
+		<nd ref="330659656"/>
+		<tag k="name" v="Piazza de' Pitti"/>
+		<tag k="highway" v="pedestrian"/>
+		<tag k="area" v="yes"/>
+	</way>
+	<way id="24999537" changeset="248124" uid="17383" timestamp="2008-06-21T19:50:18Z" visible="true" version="2" user="grampasso">
+		<nd ref="271773222"/>
+		<nd ref="252191792"/>
+		<tag k="name" v="Ponte Vecchio"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="24882674" changeset="5993440" uid="17382" timestamp="2010-10-09T14:20:39Z" visible="true" version="9" user="FyaSKo">
+		<nd ref="271196032"/>
+		<nd ref="270378404"/>
+		<nd ref="270378408"/>
+		<nd ref="270378410"/>
+		<nd ref="270378412"/>
+		<nd ref="270378415"/>
+		<nd ref="270378419"/>
+		<nd ref="311421608"/>
+		<nd ref="16778047"/>
+		<tag k="name" v="Lungarno Amerigo Vespucci"/>
+		<tag k="highway" v="residential"/>
+		<tag k="cycleway" v="lane"/>
+	</way>
+	<way id="46154099" changeset="6931833" uid="192299" timestamp="2011-01-10T22:04:04Z" visible="true" version="14" user="a_l_e_c_h">
+		<nd ref="588454068"/>
+		<nd ref="1043521748"/>
+		<nd ref="588454432"/>
+		<nd ref="989008389"/>
+		<nd ref="1043523503"/>
+		<nd ref="588454433"/>
+		<nd ref="861459321"/>
+		<nd ref="861459335"/>
+		<nd ref="1043523499"/>
+		<nd ref="1043523500"/>
+		<nd ref="1043523497"/>
+		<nd ref="989011541"/>
+		<nd ref="989011543"/>
+		<nd ref="588454434"/>
+		<nd ref="861459336"/>
+		<nd ref="1048372910"/>
+		<nd ref="1048358378"/>
+		<nd ref="588454435"/>
+		<nd ref="1097150679"/>
+		<nd ref="989012430"/>
+		<tag k="highway" v="cycleway"/>
+	</way>
+	<way id="27777652" changeset="370648" uid="52015" timestamp="2008-10-16T17:32:59Z" visible="true" version="1" user="rockcreek">
+		<nd ref="305003993"/>
+		<nd ref="305003999"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="27590462" changeset="262811" uid="49848" timestamp="2008-10-10T23:12:35Z" visible="true" version="3" user="Simone Piccardi">
+		<nd ref="302959484"/>
+		<nd ref="303645611"/>
+		<tag k="name" v="Vicolo dell'Oro"/>
+		<tag k="highway" v="living_street"/>
+	</way>
+	<way id="24957047" changeset="6710033" uid="70696" timestamp="2010-12-19T20:54:35Z" visible="true" version="10" user="xybot">
+		<nd ref="271196032"/>
+		<nd ref="861459336"/>
+		<nd ref="262899347"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Ponte alla Carraia"/>
+		<tag k="cycleway" v="lane"/>
+		<tag k="oneway" v="true"/>
+		<tag k="highway" v="unclassified"/>
+	</way>
+	<way id="27004244" changeset="6999234" uid="22110" timestamp="2011-01-17T13:06:51Z" visible="true" version="4" user="ilrobi">
+		<nd ref="253305834"/>
+		<nd ref="253305835"/>
+		<nd ref="1107524274"/>
+		<nd ref="253305836"/>
+		<tag k="name" v="Via Pellicceria"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="24942843" changeset="207118" uid="17383" timestamp="2008-06-18T05:39:07Z" visible="true" version="2" user="grampasso">
+		<nd ref="8436633"/>
+		<nd ref="269303095"/>
+		<nd ref="269303117"/>
+		<nd ref="190021468"/>
+		<nd ref="269303176"/>
+		<tag k="name" v="Via del Campuccio"/>
+		<tag k="highway" v="residential"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+</osm>
